@@ -20,14 +20,14 @@
     <mj-body>
 
         <!-- Header -->
-        <mj-section>
+        <mj-section background-color="blue" full-width="full-width">
             <mj-column>
-                <mj-image src="https://data.cesko.digital/img/2acf280b.png">
+                <mj-image src="https://data.cesko.digital/img/2acf280b.png" padding="0">
             </mj-column>
         </mj-section>
 
         <!-- Intro -->
-        <mj-section>
+        <mj-section background-color="#f3f3f3" full-width="full-width">
             <mj-column>
                 <mj-text>
                     <p>Ahoj, Česko.Digital! 👋</p>

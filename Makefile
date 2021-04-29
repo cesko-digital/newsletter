@@ -1,6 +1,6 @@
-newsletter.html: newsletter.mjml
+index.html: index.mjml
 	npx mjml $< -o $@
 clean:
-	rm -f newsletter.html
+	rm -f index.html
 watch:
-	echo newsletter.mjml | entr make
+	echo index.mjml | entr make
