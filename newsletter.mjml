@@ -1,0 +1,87 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-all font-family="cesko-digital, Helvetica" color="#333"/>
+            <mj-text font-size="17px" line-height="160%" />
+            <mj-section padding="0"/>
+        </mj-attributes>
+        <mj-style>
+        @font-face {
+            font-family: 'cesko-digital';
+            font-style: normal;
+            font-weight: 100;
+            src: url(https://data.cesko.digital/font/regular.woff) format('woff');
+        }
+        h1 {
+            line-height: 130%;
+        }
+        </mj-style>
+    </mj-head>
+    <mj-body>
+
+        <!-- Header -->
+        <mj-section>
+            <mj-column>
+                <mj-image src="https://data.cesko.digital/img/2acf280b.png">
+            </mj-column>
+        </mj-section>
+
+        <!-- Intro -->
+        <mj-section>
+            <mj-column>
+                <mj-text>
+                    <p>Ahoj, Česko.Digital! 👋</p>
+                    <p>Doufáme, že se vás drží letní nálada, i když zrovna nasněží. Do proměnlivých aprílových dnů vám přinášíme stálici. Pohodlně se usaďte, dejte si něco dobrého a přečtěte si, co se dělo v Česko.Digital v uplynulých týdnech. Jako obvykle to bylo nabité. Nový partner a narozeniny Učíme online jsou totiž jen začátek.<p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- Main Feature -->
+        <mj-section>
+            <mj-column>
+                <mj-text>
+                    <h1>Máme nového partnera!</h1>
+                    <p>Naše komunita se rozrůstá raketovým tempem. 🚀 A to i díky strategickým partnerům. Tentokrát s radostí oznamujeme nové partnerství s rodinnou nadací Bakala Foundation, od které jsme získali podporu ve výši 4 milionů korun.</p>
+                    <p>Dar nám pomůže rozvíjet organizaci jako celek a zároveň podpoří dva konkrétní projekty: Učíme online, které se zaměřuje na digitalizaci českého školství, a Střechu duševního zdraví, která se věnuje problematice duševního zdraví dětí, což s tématem vzdělávání, osvěty a digitalizace úzce souvisí. Více se o naší spolupráci dozvíte v článcích na Lupa.cz nebo CzechCrunch. Děkujeme! 💙</p>
+                    <p>O principech financování Česko.Digital a jeho partnerech si můžete přečíst na naší wiki.</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- Feature -->
+        <mj-section>
+            <mj-column>
+                <mj-text>
+                    <h1>Učíme online oslavilo první (k)rok</h1>
+                    <p>Už rok se děti v Česku učí online. A s nimi už rok kráčí online světem i náš projekt Učíme online. V březnu jsme oslavili jeho první narozeniny milým online přípitkem a ohlédli se za uplynulým rokem. Čeho se nám podařilo dosáhnout?</p>
+                    <p>Po jednoročním plném nasazení celého týmu se můžeme pochlubit 621 školami, kterým jsme pomohli zprovoznit technologie k online výuce, 8 395 učiteli, kteří se registrovali do 76 živých webinářů, 88 080 zhlédnutími záznamů webinářů na našem Youtube kanálu a 2032 rodinami, kterým jsme díky 54 společnostem darovali počítač. Projekt Učíme online obsadil v roce 2020 také 2. místo v soutěži za inovaci ve vzdělávání EDUína.</p>
+                    <p>Bylo o nás i hodně slyšet: články o úspěchu projektu vyšly v řadě online (například  Hospodářských novinách) i tištěných médiích. Dostali jsme prostor i ve vysílání České televize v pořadu Sama doma a ve Studiu 6.</p>
+                    <p>Určitě ale neusínáme na vavřínech a chystáme pár novinek. Jako třeba podpoření škol v tom, aby digitální technologie využívaly i po návratu žáků do školních lavic. Více o vzniku a směřování projektu se dočtete v článku na našem blogu, kde najdete i rozhovor s naší CEO Evou Pavlíkovou a Ondřejem Zapletalem, ředitelem Nadace České spořitelny, která projekt podpořila.</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- Footer -->
+        <mj-section>
+            <mj-column>
+                <mj-text align="center" font-size="12px" color="gray">
+                <p>Už naše newslettery nechcete dostávat?<br>
+                <a href="*|UNSUB|*">Odhlásit se můžete zde</a></p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- Footer -->
+        <mj-section>
+            <mj-column>
+                <mj-text align="center" font-size="12px" color="gray">
+                <p>Česko.Digital<br>
+                Spěšného 391<br>
+                Roztoky 25263<br>
+                Česká republika</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+    </mj-body>
+</mjml>

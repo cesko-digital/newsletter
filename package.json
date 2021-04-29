@@ -1,0 +1,11 @@
+{
+  "name": "newsletter",
+  "version": "1.0.0",
+  "description": "Newsletter Česko.Digital",
+  "main": "index.js",
+  "author": "Tomáš Znamenáček <zoul@cesko.digital>",
+  "license": "MIT",
+  "devDependencies": {
+    "mjml": "^4.9.1"
+  }
+}
