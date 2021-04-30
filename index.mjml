@@ -78,6 +78,57 @@
       </mj-column>
     </mj-section>
 
+    <!-- Projects -->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h1>To nejlepší z dalších projektů</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/web/projects/inovace-zpravodajstvi/cover-inovace-zpravodajstvi.jpg" fluid-on-mobile="true" />
+        <mj-text>
+          <em>Inovace zpravodajského storytellingu</em><br>
+          <small>Navrhujeme prototypy, které zatraktivní způsob, jakým novináři sdělují zpravodajské informace</small>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          V březnu jsme velkolepě zakončili pětiměsíční sérii inovačních workshopů. Na posledním z nich týmy prezentovaly své nápady a získaly cenné připomínky hostů: J. Pazderky (Aktuálně.cz), J. Simkaniče (Deník N), P. Sládečka (Tubrr), F. Horkého (FlashNews) a dalších. Pod taktovkou tech-leadů teď tým zpětnou vazbu zpracovává do finálních řešení.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/web/projects/strecha-dusevniho-zdravi/cover-strecha-dusevniho-zdravi.jpg" fluid-on-mobile="true" />
+        <mj-text>
+          <em>Střecha duševního zdraví</em><br>
+          <small>Připravujeme jednotné místo pro prevenci a včasnou pomoc při duševní nepohodě či složité životní situaci</small>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          Projekt má za sebou rešerše o své cílové skupině, návrh brandu a několik rozhovorů s psychology, psychoterapeuty a dalšími odborníky. Usilovně pracujeme na vytvoření pilotního scénáře k první životní situaci naší cílovky, kterou je problém s prospěchem. Do týmu hledáme citlivé copywritery, stejně jako psychology, psychiatry a další, kteří pracují s dětmi 2. stupně ZŠ. Hledat se bude také odborný garant obsahu, protože si uvědomujeme citlivost tématu. Jestli se chcete zapojit, ozvěte se do projektového kanálu.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/web/projects/zacni-ucit/cover-zacni-ucit.jpg" fluid-on-mobile="true" />
+        <mj-text>
+          <em>Začni učit!</em><br>
+          <small>Provázíme zájemce o učitelství vším, co potřebují znát, aby se mohli stát pedagogy</small>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          Dokončili jsme výzkum cílových skupin a ujistili se, že stavíme na pevných základech. Výzkum jsme doplnili i první verzí cesty zákazníka a analýzou klíčových slov současného webu. Tým na straně zadavatele pracuje na novém logu a manuálu značky. To vše už brzy poslouží pro návrh UI expertního systému i nového webu. Dotáhli jsme také zadání a testovací data a zahájili vývoj expertního systému. Mílovými kroky se tak blížíme k finálnímu návrhu pro MVP (minimální životaschopný produkt).
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
     <!-- Imprint -->
     <mj-section>
       <mj-column>
