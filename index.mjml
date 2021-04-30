@@ -62,23 +62,17 @@
         </mj-section>
 
         <!-- Footer -->
-        <mj-section>
+        <mj-section background-color="#f3f3f3" full-width="full-width">
             <mj-column>
                 <mj-text align="center" font-size="12px" color="gray">
-                <p>Už naše newslettery nechcete dostávat?<br>
-                <a href="*|UNSUB|*">Odhlásit se můžete zde</a></p>
+                    <p>Už naše newslettery nechcete dostávat?<br>
+                    <a href="*|UNSUB|*">Odhlásit se můžete zde</a></p>
                 </mj-text>
-            </mj-column>
-        </mj-section>
-
-        <!-- Footer -->
-        <mj-section>
-            <mj-column>
                 <mj-text align="center" font-size="12px" color="gray">
-                <p>Česko.Digital<br>
-                Spěšného 391<br>
-                Roztoky 25263<br>
-                Česká republika</p>
+                    <p>Česko.Digital<br>
+                    Spěšného 391<br>
+                    Roztoky 25263<br>
+                    Česká republika</p>
                 </mj-text>
             </mj-column>
         </mj-section>
