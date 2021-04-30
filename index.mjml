@@ -16,6 +16,10 @@
       h1 {
         line-height: 130%;
       }
+
+      a {
+        color: blue;
+      }
     </mj-style>
   </mj-head>
   <mj-body>
