@@ -66,14 +66,27 @@
       </mj-column>
     </mj-section>
 
+    <!-- Imprint -->
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="1px" border-color="silver" />
+        <mj-text font-size="14px">
+          <p>Jak se vám líbí náš newsletter? Budeme rádi, když nám <a href="https://airtable.com/shre7lawrjOxNtCpL">necháte zpětnou vazbu</a>,
+            která nám ho pomůže zlepšit. Anebo se rovnou podívejte do naší <a href="https://trello.com/b/RmTwoiMq/cd-newsletter">Trello nástěnky</a>,
+            s čím byste nám mohli pomoct, ozvěte se v kanálu <a href="https://cesko-digital.slack.com/archives/CMAS7H63D">#ceskodigital_mktg</a>
+            a můžeme se do toho pustit společně.</p>
+          <p>Na přípravě tohoto vydání se podíleli: …</p>
+        </mj-text>
+        <mj-spacer height="50px" />
+      </mj-column>
+    </mj-section>
+
     <!-- Footer -->
     <mj-section background-color="#f3f3f3" full-width="full-width">
       <mj-column>
-        <mj-text align="center" font-size="12px" color="gray">
+        <mj-text align="center" font-size="14px" color="gray">
           <p>Už naše newslettery nechcete dostávat?<br>
             <a href="*|UNSUB|*">Odhlásit se můžete zde</a></p>
-        </mj-text>
-        <mj-text align="center" font-size="12px" color="gray">
           <p>Česko.Digital<br>
             Spěšného 391<br>
             Roztoky 25263<br>
