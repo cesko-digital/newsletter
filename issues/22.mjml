@@ -1,0 +1,275 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="cesko-digital, Helvetica" color="#333" />
+      <mj-text font-size="17px" line-height="160%" />
+      <mj-section padding="0" />
+    </mj-attributes>
+    <mj-style>
+      @font-face {
+        font-family: 'cesko-digital';
+        font-style: normal;
+        font-weight: 100;
+        src: url(https://data.cesko.digital/font/regular.woff) format('woff');
+      }
+
+      @font-face {
+        font-family: 'cesko-digital';
+        font-style: normal;
+        font-weight: bold;
+        src: url(https://data.cesko.digital/font/bold.woff) format('woff');
+      }
+
+      h1 {
+        line-height: 130%;
+      }
+
+      a {
+        color: blue;
+      }
+
+      em {
+        font-style: normal;
+        font-weight: bold;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+
+    <!-- Header -->
+    <mj-section background-color="blue" full-width="full-width">
+      <mj-column>
+        <mj-image src="https://i.imgur.com/nx5jRtk.png" padding="0">
+      </mj-column>
+    </mj-section>
+
+    <!-- Intro -->
+    <mj-section background-color="#f3f3f3" full-width="full-width">
+      <mj-column>
+        <mj-text>
+          <p>Ahoj, Česko.Digital! 👋</p>
+          <p>Cítíte už léto ve vzduchu? První letní vánek přináší i novinky Česko.Digital. Překonáváme různé milníky a z každého máme stejnou radost. Rosteme, tvoříme a naše společná práce má stále větší dopad. Užijete si čtení a děkujeme, že v tom jedete s námi!<p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Main Feature -->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h1>Podpořte naši misi – aneb jak financujeme Česko.Digital</h1>
+          <p>Důležité téma, které vám postupně představujeme. Zajímá vás, proč je financování organizace, která je nezisková a stojí na bázi vás, zapojených pro-bono expertů, natolik důležité? I to se dozvíte ve velmi <a href="https://blog.cesko.digital/2021/04/rozhovor-bakala">inspirativním rozhovoru</a> s naší CEO Evou Pavlíkovou a ředitelem nadace Bakala Foundation Václavem Pechou.</p>
+          <p>A jak si aktuálně stojíme? Neustále rosteme a roste i dopad našich projektů. <em>Klíčové je pro nás slovo udržitelnost.</em> Aby to, co zde děláme, mělo dlouhodobý dopad, abychom se v rámci našeho růstu dokázali zlepšovat, posouvat.</p>
+          <p>V to, co zde spolu tvoříme, věříme. <em>Tvoříme totiž něco zcela unikátního</em>, nový typ organizace. Propojujeme stát, neziskový a soukromý sektor. K myšlence samořiditelné organizace je ještě kus cesty před námi a taková iniciativa se neobejde bez vedení, podpory a nástrojů pro provoz a fungování. <em>Náklady na provoz Česko.Digital</em> a jeho kmenový tým, ve kterém je nyní 15 lidí, tvoří v tuto chvíli zhruba <em>jeden milion měsíčně</em>.</p>
+          <p>V tuto chvíli máme díky našim hlavním partnerům pro rok 2021 – Livesport, nadaci Bakala Foundation a dalším dárcům, kteří přispěli na naše fungování – <em>částku, která pokrývá provoz do poloviny roku 2021</em>.</p>
+          <p>Přispět na fungování Česko.Digital je možné i menší částkou. Jak? Prostřednictvím <a href="https://www.darujme.cz/projekt/1203553">darujme.cz</a>, kde je možné podpořit naši komunitu přímým darem na transparentní účet. <em>Sdílejte naši iniciativu dál</em> a postavte základy pro jednu z největších civic-tech dobrovolnických organizací v Evropě.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Divider -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/img/dad68fa0.png" padding="10px 0 10px 0">
+      </mj-column>
+    </mj-section>
+
+    <!-- Projects -->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h1>To nejlepší z našich projektů</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/web/projects/nedluzim-statu/cover-nedluzim-statu.jpg" fluid-on-mobile="true" />
+        <mj-text>
+          <em>Nedlužím státu</em><br>
+          <small>Pracujeme na portálu, který lidem pomáhá zjistit, zda a případně kolik dluží veřejným institucím</small>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          Po strategické schůzce s Evou Pavlíkovou a zadavatelem Radkem Háblem jsme se dohodli na <em>předání projektu</em>, které plánujeme na konec června. Projekt bude pak pokračovat pod hlavičkou zadavatele. Téměř hotová je sekce „O nás“ přibližující motivaci týmu a projektu. Máme rozpracovaný prototyp služby automatického generování formulářů, připravenou sekci vyhledávání místní pobočky a další úkoly jsou ve fázi designu. Těšte se na další info a navštivte nás <a href="https://cesko-digital.slack.com/archives/CHTQQN5AL">v kanálu projektu</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/web/projects/verejne-zakazky-spolu/cover-verejne-zakazky-spolu.jpg" fluid-on-mobile="true" />
+        <mj-text>
+          <em>Veřejné zakázky spolu</em><br>
+          <small>Pomáháme státu poskytovat a rozvíjet služby v souladu s technologickými trendy prostřednictvím kultivace prostředí zadávání veřejných zakázek</small>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          Co je u nás nového? Dali jsme dohromady <a href="https://wiki.cesko.digital/pages/viewpage.action?pageId=1586999">časovou osu</a> našeho projektu. Zvolili jsme také termín pro dlouho plánovanou <a href="https://cesko-digital.slack.com/archives/CSHURJA9L/p1619165877047400">online událost</a> na téma <em>vendor lock-in</em>, akce začne <em>15. června v 15 hodin</em>. Neustále pracujeme na metodice. Ta má za cíl nastavit pravidla pro agilní zadávání veřejných zakázek v prostředí státní sféry.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/web/projects/spolu-na-dalku/cover-spolu-na-dalku.jpg" fluid-on-mobile="true" />
+        <mj-text>
+          <em>Spolu na dálku</em><br>
+          <small>Řešení pro poskytovatele sociálních a zdravotnických služeb, které pacientům a klientům umožní kontakt s blízkými prostřednictvím videohovoru na chytrém zařízení</small>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          Chcete pomoci rodinám neztratit vzájemný kontakt? Stačí jim dát vědět o <a href="http://cesko.digital/go/spolu">Příručce Spolu na dálku</a>, která se specializuje na vzdálenou komunikaci pacientů nebo klientů sociálních zařízení a jejich blízkých. Přečtete si o ní více <a href="https://blog.cesko.digital/2021/05/spolu-na-dalku">na našem blogu</a>, na sociálních sítích nebo v odborném časopise <a href="https://www.socialnisluzby.eu/">Sociální služby</a>. S vydáním nám pomohli Národní telemedicínské centrum FNOL a Asociace poskytovatelů sociálních služeb v ČR.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/web/projects/ucime-online/cover-ucime-online.jpg" fluid-on-mobile="true" />
+        <mj-text>
+          <em>Učíme online</em><br>
+          <small>Chceme být dlouhodobou hybnou silou při proměně českého školství</small>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          Nově se setkáváme všichni dohromady každý čtvrtek od 17 hodin. Bez ohledu na to, co kdo v projektu dělá. Pozvánku najdete vždy <a href="https://app.slack.com/client/TG21XF887/CUXRHTY58">na našem Slacku</a>. A víte, kolik dětí se už umí připojit i díky naší pomoci k online vyučování? Mrkněte na článek <a href="https://www.irozhlas.cz/zivotni-styl/spolecnost/online-vyuka-ceskodigital-skolstvi-koronavirus-pandemie_2104230718_nkr">iRozhlasu</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <mj-image src="https://i.imgur.com/d6Nrk3l.png" fluid-on-mobile="true" />
+        <mj-text>
+          <em>Web Česko.Digital</em><br>
+          <small>Nový a lepší!</small>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          <a href="https://cesko.digital/">Náš web</a> má <em>nový vzhled</em>. Prezentujeme zde práci na realizovaných projektech a naši novou vizuální identitu. Další novinky vám představíme už brzy.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Divider -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/img/dad68fa0.png" padding="10px 0 10px 0">
+      </mj-column>
+    </mj-section>
+
+    <!-- Feature -->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h1>Co se klube v inkubátoru</h1>
+          <p>Projekt <em>Průvodce prevencí od Loono</em> přešel z inkubace do realizace. Pomyslným milníkem se stal strategický workshop, který byl završením dvouměsíční inkubace s naším mentorem. S nově naloděným realizačním týmem aktuálně pracujeme na vývoji <em>interaktivní aplikace</em>, která by měla uživatelům připomínat preventivní prohlídky, ale zároveň by je měla vzdělávat o prevenci a zdraví. O tomto projektu vyšel i článek na serveru <a href="https://pozitivni-zpravy.cz/nejvyssi-cas-na-prevenci-pravidelne-prohlidky-vam-pripomene-nova-aplikace/">Pozitivní zprávy</a>. Chcete se k nám přidat? Zapojte se do projektu v <a href="https://cesko-digital.slack.com/archives/C01P6CK0DDY">našem kanálu</a>.</p>
+          <p>A pokud máte tip na další neziskovku, které jsou blízké hodnoty Česko.Digital a potřebovala by rozjet digitální inovativní projekt, dejte nám o ní vědět do <a href="https://cesko-digital.slack.com/archives/C01AMGXT9HQ">kanálu inkubátoru</a> nebo na email <a href="mailto:romana@cesko.digital">romana@cesko.digital</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Divider -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/img/dad68fa0.png" padding="10px 0 10px 0">
+      </mj-column>
+    </mj-section>
+
+    <!-- Feature -->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h1>Jak si v komunitě žijeme</h1>
+          <p>Dobře. Až tak dobře, že nedávno vznikl <em>Strom vděčnosti</em>, na který
+            můžete pověsit lísteček s milým vzkazem pro kolegy v týmu i pro celou komunitu. Ke stromu se jde přes kanál <a href="https://cesko-digital.slack.com/archives/CTMJPK71V">#thank-you</a> nebo na <a href="https://wiki.cesko.digital/pages/viewpage.action?pageId=1589158">wiki</a>. Pověste na něj vše, co vás těší a za co jste vděční, a kdykoli se k němu vraťte, abyste se podívali, co všechno nám v Česko.Digital dělá radost a načerpali tak pozitivní energii do dalších dnů.</p>
+          <p>V červnu nás čeká <em>revize hodnot</em>. Plánujeme několik celokomunitních diskuzí nad tím, jak by naše hodnoty měly vypadat, zda jsou stále aktuální a především co pro každého z nás hodnoty znamenají. Pokud se budete chtít zapojit, sledujte kanál <a href="https://cesko-digital.slack.com/archives/CG07ST9ME">#general</a>. Jste srdečně vítáni!</p>
+          <h2>č.edu</h2>
+          <p>Ve čtvrtek 22. 4. se uskutečnil <em>pilotní webinář</em> na téma <em>Jak na remote práci</em>. Odstartovali jsme tak komunitní vzdělávací &amp; rozvojový program.</p>
+          <p>Sepsali jsme nejdůležitější tipy přednášejících, které by vám neměly uniknout:</p>
+          <ul>
+            <li>před asynchronní komunikací by se tým měl alespoň jednou setkat synchronně,</li>
+            <li>při digitální komunikaci se doporučuje být více explicitní v emocích 👉 nebojte se zapojit emotikony,</li>
+            <li>v pracovní době je zdravé často se pohybovat, případně změnit pracovní místo nebo polohu,</li>
+            <li>6 týdnů pro projekt je ideální doba, potom by měl následovat 1 týden oddychu,</li>
+            <li>na online meetingu je důležité lidi zapojovat každých 5–10 minut,</li>
+            <li>dobrý tip pro online webinář nebo workshop je povinně zapnutá kamera a využívání nástrojů třetích stran.</li>
+          </ul>
+          <p>Velmi důležitý je také podtitul programu <em>„od komunity pro komunitu“</em> – každý z dobrovolníků může přijít s nápadem na téma nebo lektora.</p>
+          <p>Máte zajímavý nápad? Můžete nám ho sdělit už nyní <a href="https://forms.gle/yDfmkPWWYs7SQDkp7">zde</a> nebo nám napište rovnou <a href="https://cesko-digital.slack.com/archives/C01S44WHHST">do kanálu</a>. Do projektu <em>stále hledáme posily</em>, otevřené role najdete <a href="https://wiki.cesko.digital/x/dDUY">tady</a>. Těšíme se na vás a vaše nápady. 💪</p>
+          <h2>Show &amp; Tell</h2>
+          <p>Výsledky práce dobrovolníků jsou u nás vidět na každém kroku, jeden z nich ostatně právě čtete. Kdyby vás ale zajímalo, jak vypadá <em>práce dobrovolníka v praxi</em>, mrkněte na nový živý pořad <em>Show &amp; Tell</em>. Každý měsíc v něm budou dobrovolníci prezentovat <em>řešení konkrétních problémů, se kterými se na projektech setkali</em>.</p>
+          <p>Vysílat budeme <em>každý poslední čtvrtek v měsíci</em>. <a href="https://www.youtube.com/watch?v=vnFuzxKlyb4">V prvním díl</a>u, který jsme vysílali ve čtvrtek 29. dubna, byly na pořadu příspěvky z projektů <a href="https://www.strechadusevnihozdravi.cz/">Střecha duševního zdraví</a>, <a href="https://nedluzimstatu.cz/">Nedlužím státu</a>, onboardingu Česko.Digital a nového webu <a href="https://cesko.digital/">Česko.Digital</a>. Pořad vysíláme vždy naživo. Nenechte si ujít další vysílání, sledujte dění a uložte si do záložek <a href="https://cesko.digital/show-and-tell">tuto stránku</a>.</p>
+          <p>Pokud se chcete na pořadu přímo podílet, bude vás zajímat, že <a href="https://cesko-digital.slack.com/archives/C01FQBDMDGQ/p1620763432169200">hledáme koordinátory</a>, který bude mít na starosti proces vzniku Show &amp; Tell. Hledáme i <em>tým, který se <a href="https://www.notion.so/mwenisch/Jak-na-produkci-Show-Tell-videa-0943b30beb9949c7b4873a7954141e1d">podle tohoto návodu</a> postará o produkci</em> a nahrávání videí s dobrovolníky. Pokud o tyto pozice máte zájem, ozvěte se nám do <a href="https://cesko-digital.slack.com/archives/C01FQBDMDGQ">obsahového kanálu č.d</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Divider -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/img/dad68fa0.png" padding="10px 0 10px 0">
+      </mj-column>
+    </mj-section>
+
+    <!-- Feature -->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h1>Koho aktuálně hledáme</h1>
+          <p>Připojte se k největší dobrovolnické civic-tech organizaci v Evropě a digitalizujte s námi Česko.</p>
+          <ul>
+            <li><em>Tech Lead</em> na Začni učit! (Django, React, Neo4j), Průvodce prevencí od Loono (Flutter) a Střechu duševního zdraví (zaměření na FE)</li>
+            <li><em>Copywriter/ka</em> do projektů Onboarding a Střecha duševního zdraví</li>
+            <li><em>Developeři (React, Python, Rails, .NET)</em> na Inovace zpravodajského storytellingu</li>
+            <li><em>UX designer/ka</em> na Inovace zpravodajského storytellingu</li>
+            <li><em>Projektový koordinátor</em> do Veřejné zakázky spolu a č.edu</li>
+            <li><em>Google Meet Support a Moderátor/ky</em> do č.edu</li>
+            <li><em>Marketingová podpora se zkušeností s eventy</em> do Veřejné zakázky spolu</li>
+          </ul>
+          <p>Žádná z pozic vás nezaujala? <em>Prohlédněte si <a href="https://wiki.cesko.digital/pages/viewpage.action?pageId=1573299">všechny poptávané role</a></em>.</p>
+          <p>Pokud hledáte jednorázové spolupráce, mohl by vás zajímat kanál <a href="https://cesko-digital.slack.com/archives/CLVAH28P3">#market-place</a>, kde neziskovky shánějí dobrovolníky do rozjetých projektů. Svou první zkušenost v neziskovce tak můžete nabrat i mimo Česko.Digital.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Imprint -->
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="1px" border-color="silver" />
+        <mj-text font-size="14px">
+          <p>Jak se vám líbí náš newsletter? Budeme rádi, když nám <a href="https://airtable.com/shre7lawrjOxNtCpL">necháte zpětnou vazbu</a>,
+            která nám ho pomůže zlepšit. Anebo se rovnou podívejte do naší <a href="https://trello.com/b/RmTwoiMq/cd-newsletter">Trello nástěnky</a>,
+            s čím byste nám mohli pomoct, ozvěte se v kanálu <a href="https://cesko-digital.slack.com/archives/CMAS7H63D">#ceskodigital_mktg</a>
+            a můžeme se do toho pustit společně.</p>
+          <p>Na přípravě tohoto vydání se podíleli: Terka Teryii Palaščáková & Tomáš „zoul“ Znamenáček (koordinace),
+            Ivča Janečková, Žanet Svobodová, Anička Landsmannová, Bára Truksová, Petr Hrudka a Filip Šula (texty),
+            Katka Toholová (korektura) a Luky Vaněk (grafika).</p>
+        </mj-text>
+        <mj-spacer height="50px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#f3f3f3" full-width="full-width">
+      <mj-column>
+        <mj-text align="center" font-size="14px" color="gray">
+          <p>Už naše newslettery nechcete dostávat?<br>
+            <a href="*|UNSUB|*">Odhlásit se můžete zde</a></p>
+          <p>Česko.Digital<br>
+            Spěšného 391<br>
+            Roztoky 25263<br>
+            Česká republika</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
