@@ -1,8 +1,9 @@
-index.html: index.mjml
+sources = $(wildcard issues/*.mjml)
+objects := $(patsubst issues/%.mjml, build/%.html, $(sources))
+
+all: $(objects)
+$(objects): build/%.html: issues/%.mjml
+	@mkdir -p build
 	npx mjml $< -o $@
-copy: index.html
-	pbcopy < $<
 clean:
-	rm -f index.html
-watch:
-	echo index.mjml | entr make
+	rm -rf build
