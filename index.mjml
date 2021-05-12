@@ -65,6 +65,13 @@
       </mj-column>
     </mj-section>
 
+    <!-- Divider -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/img/dad68fa0.png" padding="10px 0 10px 0">
+      </mj-column>
+    </mj-section>
+
     <!-- Feature -->
     <mj-section>
       <mj-column>
@@ -75,6 +82,13 @@
           <p>Bylo o nás i hodně slyšet: články o úspěchu projektu vyšly v řadě online (například  Hospodářských novinách) i tištěných médiích. Dostali jsme prostor i ve vysílání České televize v pořadu Sama doma a ve Studiu 6.</p>
           <p>Určitě ale neusínáme na vavřínech a chystáme pár novinek. Jako třeba podpoření škol v tom, aby digitální technologie využívaly i po návratu žáků do školních lavic. Více o vzniku a směřování projektu se dočtete v článku na našem blogu, kde najdete i rozhovor s naší CEO Evou Pavlíkovou a Ondřejem Zapletalem, ředitelem Nadace České spořitelny, která projekt podpořila.</p>
         </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Divider -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/img/dad68fa0.png" padding="10px 0 10px 0">
       </mj-column>
     </mj-section>
 
