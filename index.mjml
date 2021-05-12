@@ -32,6 +32,11 @@
         font-style: normal;
         font-weight: bold;
       }
+
+      .bordered-section {
+        border-top: 1px solid #ddd !important;
+        border-bottom: 1px solid #ddd !important;
+      }
     </mj-style>
   </mj-head>
   <mj-body>
@@ -65,10 +70,10 @@
       </mj-column>
     </mj-section>
 
-    <!-- Divider -->
-    <mj-section>
+    <!-- Stats Dashboard -->
+    <mj-section background-color="#F9F9F9" full-width="full-width" css-class="bordered-section">
       <mj-column>
-        <mj-image src="https://data.cesko.digital/img/dad68fa0.png" padding="10px 0 10px 0">
+        <mj-image src="https://i.imgur.com/63RhJfo.png">
       </mj-column>
     </mj-section>
 
