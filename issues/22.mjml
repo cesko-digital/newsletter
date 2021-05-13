@@ -39,7 +39,7 @@
     <!-- Header -->
     <mj-section background-color="blue" full-width="full-width">
       <mj-column>
-        <mj-image src="https://i.imgur.com/nx5jRtk.png" padding="0">
+        <mj-image src="https://data.cesko.digital/img/b163f3a5.png" padding="0">
       </mj-column>
     </mj-section>
 
@@ -145,7 +145,7 @@
 
     <mj-section padding-bottom="20px">
       <mj-column>
-        <mj-image src="https://i.imgur.com/d6Nrk3l.png" fluid-on-mobile="true" />
+        <mj-image src="https://data.cesko.digital/img/3ad9e969.png" fluid-on-mobile="true" />
         <mj-text>
           <em>Web Česko.Digital</em><br>
           <small>Nový a lepší!</small>
