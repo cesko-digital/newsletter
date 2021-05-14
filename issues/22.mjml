@@ -143,7 +143,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding-bottom="20px">
+    <mj-section>
       <mj-column>
         <mj-image src="https://data.cesko.digital/img/3ad9e969.png" fluid-on-mobile="true" />
         <mj-text>
@@ -154,6 +154,14 @@
       <mj-column>
         <mj-text>
           <a href="https://cesko.digital/">Náš web</a> má <em>nový vzhled</em>. Prezentujeme zde práci na realizovaných projektech a naši novou vizuální identitu. Další novinky vám představíme už brzy.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <mj-text>
+          O všech 14 projektech, na kterých pracujeme, si můžete <a href="https://wiki.cesko.digital/x/KADr">přečíst na naší wiki</a>.
         </mj-text>
       </mj-column>
     </mj-section>
