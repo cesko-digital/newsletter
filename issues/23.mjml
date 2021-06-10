@@ -1,0 +1,304 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="cesko-digital, Helvetica" color="#333" />
+      <mj-text font-size="17px" line-height="160%" />
+      <mj-section padding="0" />
+    </mj-attributes>
+    <mj-style>
+      @font-face {
+        font-family: 'cesko-digital';
+        font-style: normal;
+        font-weight: 100;
+        src: url(https://data.cesko.digital/font/regular.woff) format('woff');
+      }
+
+      @font-face {
+        font-family: 'cesko-digital';
+        font-style: normal;
+        font-weight: bold;
+        src: url(https://data.cesko.digital/font/bold.woff) format('woff');
+      }
+
+      h1 {
+        line-height: 130%;
+      }
+
+      a {
+        color: blue;
+      }
+
+      em {
+        font-style: normal;
+        font-weight: bold;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+
+    <!-- Header -->
+    <mj-section background-color="blue" full-width="full-width">
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/img/445e673d.png" padding="0">
+      </mj-column>
+    </mj-section>
+
+    <!-- Intro -->
+    <mj-section background-color="#f3f3f3" full-width="full-width">
+      <mj-column>
+        <mj-text>
+          <p>Ahoj, Česko.Digital! 👋</p>
+          <p>Ještě než se vydáte za letním dobrodružstvím, máme pro vás další novinky z komunity. Jsme totiž zase o krok blíž tomu, dělat lidem zdravější a kvalitnější život. Kromě toho představíme nový pracovní prostor, ve kterém mohou vznikat další velké věci, měnící Česko k lepšímu. Co se za poslední týdny událo nového a na co můžeme být náležitě pyšní?<p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Main Feature -->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h1>Zajímavé čtení (nejen) na červen</h1>
+          <p>
+            Jak vidí digitalizaci státu naše CEO <a href="https://cz.linkedin.com/in/evapavlikova"><strong>Eva Pavlíková</strong></a>? A co digitalizace státu skutečně znamená? Podle Evy je
+            <strong>úspěšná digitalizace závislá především na změně myšlení a srozumitelné
+              komunikaci</strong>. Kde na této cestě jsme a v čem jsou největší zádrhele si
+            <a href="https://blog.cesko.digital/2021/06/zmena-mysleni">můžete přečíst na našem blogu</a>.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Divider -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/img/dad68fa0.png" padding="10px 0 10px 0">
+      </mj-column>
+    </mj-section>
+
+    <!-- Projects -->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h1>To nejlepší z našich projektů</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <mj-text>
+          O všech projektech, na kterých pracujeme, si můžete <a href="https://cesko-digital.atlassian.net/l/c/1RriTPgP">přečíst na naší wiki</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Divider -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/img/dad68fa0.png" padding="10px 0 10px 0">
+      </mj-column>
+    </mj-section>
+
+    <!-- Feature -->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h1>Jak si v komunitě žijeme</h1>
+          <p>
+            Potkali jsme se s datařskou komunitou na
+            <strong>setkání Open Data Pivo*Limo</strong>, které pořádá
+            <a href="https://osf.cz/">Nadace OSF</a>.
+            Z diskuzí nad dosavadním vývojem a současným stavem digitalizace státu a
+            agendy otevřených dat jsme pomohli Nadaci OSF vydefinovat hlavní tematické
+            okruhy. Ty tvoří advokační kampaň související s letošními parlamentními
+            volbami a politickou dimenzí digitalizace státu.
+          </p>
+          <h2>Pečujeme a ptáme se</h2>
+          <p>
+            Interně zároveň neustále
+            <strong>pracujeme na tom, abychom si tu žili dobře</strong>. Minule jsme
+            zmiňovali
+            <a href="https://cesko-digital.atlassian.net/wiki/welcome?pageId=1589158">Strom vděčnosti</a>
+            🌳 a kanál
+            <a href="https://cesko-digital.slack.com/archives/CTMJPK71V">#thank-you</a>
+            ve Slacku. Mimo tyto nástroje well-beingu máme ještě další:
+          </p>
+          <ul>
+            <li>
+              <a href="https://cesko-digital.atlassian.net/wiki/spaces/CD/pages/87474272/Red%2Bbox%2B-%2Bzp%2Btn%2Bvazba%2Bkomunit?atlOrigin=eyJpIjoiNTIzMmYyMjc4MzAwNDllMDllZjlkN2E2MWJiZDlmMGMiLCJwIjoiYyJ9">Red box</a>
+              – pro sběr zpětné vazby,
+            </li>
+            <li>
+              slackový kanál
+              <a href="https://cesko-digital.slack.com/archives/C01UYQZBT8V">#ask-me-anything</a>
+              – pro jakékoliv dotazy (díky botovi i anonymně),
+            </li>
+            <li>
+              @grnst-bot od
+              <a href="https://www.grnst.co/">The Greenest Company</a>
+              – pro mapování well-beingu (v komunitě i napříč projekty),
+            </li>
+            <li>
+              slackový kanál<a href="https://cesko-digital.slack.com/archives/C01KQDS64DA">
+                #wellbeing-club</a>
+              – pro péči o well-being (chystáme letní vzdělávací a rozvojové akce
+              v rámci projektu č.edu).
+            </li>
+          </ul>
+          <h2>Máme nový pracovní prostor</h2>
+          <p>
+            Well-being tvoří interní záležitosti, ale i to, co je vně. Skloubení obojího
+            se nám podařilo najít v
+            <a href="https://opero.cz/cs">Opero</a> –
+            coworkingovém prostoru pro reprezentativní obchodní schůzky s prvotřídním
+            servisem, ale i místu pro neformální setkání, spolupráci a sdílení.
+            <strong>V Opero zastávají podobné hodnoty jako my</strong> – je založené na
+            myšlence komunity a spolupráce a
+            <strong>snaze změnit Česko k lepšímu</strong>.
+          </p>
+          <p>
+            „Propojení Opera a Česko.Digital vnímáme jako propojení světů byznysu a
+            veřejně prospěšných projektů, světů podnikatelů a odborníků ve svém oboru.
+            Vaše aktivity a projekty nám dávají smysl a rádi bychom, aby ze spolupráce
+            bylo zřejmé, že v Operu také držíme prst na tepu doby a směřujeme kupředu,“ říká Magda Tatarová, která má na starosti komunitu Opero. A my za tuto
+            příležitost moc děkujeme!
+          </p>
+          <h2>Revidujeme naše hodnoty</h2>
+          <p>
+            Hodnotám jsme se intenzivně věnovali i mimo Opero. Připravovali jsme se na
+            <strong>refresh a rozpracování hodnot Česko.Digital</strong>. Co nás v rámci
+            tohoto tématu nyní čeká, najdete ve Slackovém kanálu
+            <a href="https://cesko-digital.slack.com/archives/CG07ST9ME/p1622016665072300">#general</a>
+            nebo na naší
+            <a href="https://cesko-digital.atlassian.net/l/c/zVpZKxef">wiki</a>. Zapojit se do
+            <a href="https://airtable.com/shrYoqqJ7NGWcIgkt">dotazníku</a>
+            nebo
+            <a href="https://doodle.com/poll/35czmgitrebemeih?utm_source=poll&utm_medium=link">focus groups</a>, které zkoumají, jak vnímají dobrovolníci hodnoty Česko.Digital, může každý
+            člen komunity. Přidejte se taky. 🤗
+          </p>
+          <h2>č.edu</h2>
+          <p>
+            Po úspěšném pilotním webináři v dubnu proběhly v květnu hned
+            <strong>tři vzdělávací online akce pro komunitu</strong> –⁠
+            <em>Jak na nástroje v Česko.Digital</em>,
+            <em>Onboarding session pro product ownery</em> a
+            <em>Jak na launch projektu v Česko.Digital</em>. Nyní už jsou v plném proudu
+            přípravy na červnová témata. Jedním z nich je očekávaný
+            <a href="https://forms.gle/9vrdXbSmqBHJYhdW8"><strong>workshop s Danem Gamrotem</strong></a> na téma <strong>Jak na osobní produktivitu</strong>, který je na programu 24.
+            června dopoledne.
+          </p>
+          <p>
+            Získali jsme také novou koordinační posilu a přidalo se k nám několik střihačů
+            pro zpracování záznamů z akcí pro další využití.
+            <strong>Pro nadcházející akce sledujte </strong><a href="https://cesko-digital.atlassian.net/l/c/vdX7vQ2w"><strong>wiki č.edu</strong></a><strong>.</strong> A pokud máte zajímavý nápad na webinář, můžete nám ho
+            sdělit
+            <a href="https://forms.gle/yDfmkPWWYs7SQDkp7">zde</a>
+            nebo nám napište rovnou
+            <a href="https://cesko-digital.slack.com/archives/C01S44WHHST">do kanálu</a>. Do projektu <strong>stále hledáme posily</strong>, otevřené role najdete
+            <a href="https://cesko-digital.atlassian.net/l/c/0Dcf2JDj">tady</a>. Těšíme se na vás a vaše nápady. 💪
+          </p>
+          <h3>Show&amp;Tell</h3>
+          <p>
+            Náš nový pořad, ve kterém dobrovolníci prezentují svoji práci, řešení a
+            úspěchy na projektech v rámci Česko.Digital, <strong>má za sebou </strong><a href="https://youtu.be/9kgwQM2SnC4"><strong>druhé vysílání</strong></a>! Cílem pořadu je dát prostor i samotným jednotlivcům v naší komunitě, bez
+            kterých by to prostě nešlo a kteří odvádějí na projektech skvělou práci. Zatím
+            interní livestream vysíláme vždy <strong>poslední čtvrtek v měsíci</strong>.
+            Nenechte si ujít další vysílání, sledujte dění a uložte si do záložek
+            <a href="https://cesko.digital/show-and-tell">tuto stránku</a>.
+          </p>
+          <p>
+            Máme s tímto pořadem velké plány, a tak <strong>hledáme tým, který se </strong><a href="https://www.notion.so/mwenisch/Jak-na-produkci-Show-Tell-videa-0943b30beb9949c7b4873a7954141e1d"><strong>podle tohoto návodu</strong></a><strong> postará o nahrávání a stříhání</strong> videí s dobrovolníky,
+            <strong>copywritera</strong>, který se podívá na stávající texty a dodá jim
+            ten správný šmrnc, a <strong>marketéra</strong>, který by nám pomohl projekt
+            propagačně a strategicky uchytit. Pokud o tyto pozice máte zájem, ozvěte se
+            nám do
+            <a href="https://cesko-digital.slack.com/archives/CS7RPPVUL">tech kanálu č.d</a>.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Divider -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/img/dad68fa0.png" padding="10px 0 10px 0">
+      </mj-column>
+    </mj-section>
+
+    <!-- Feature -->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h1>Koho aktuálně hledáme</h1>
+          <p>
+            Připojte se k největší dobrovolnické civic-tech organizaci v Evropě a
+            digitalizujte s námi Česko. V případě zájmu se ozvěte uvedeným kontaktním
+            osobám ve Slacku.
+          </p>
+          <ul>
+            <li>
+              <strong>Wordpress specialista/tka pro Inovace zpravodajského
+                storytellingu</strong>
+              –⁠ více
+              <a href="https://docs.google.com/document/d/1WufispIL5XGRCHc8GMdpoOcTDO8PTEda6TQKGFqC48k/edit?usp=sharing">zde</a>, kontaktní osoba Pavel Bartoš
+            </li>
+            <li>
+              <strong>Backend (Python, Ruby, Rails) pro Inovace zpravodajského storytellingu </strong> –⁠ více
+              <a href="https://docs.google.com/document/d/1WufispIL5XGRCHc8GMdpoOcTDO8PTEda6TQKGFqC48k/edit">zde</a>, kontaktní osoba Jiří Zikeš
+            </li>
+            <li>
+              <strong>Frontend (React, HTML, CSS a JS) pro Inovace zpravodajského storytellingu </strong> –⁠ více
+              <a href="https://docs.google.com/document/d/1WufispIL5XGRCHc8GMdpoOcTDO8PTEda6TQKGFqC48k/edit">zde</a>, kontaktní osoba Ondřej Piálek
+            </li>
+            <li>
+              <strong>Scrum</strong><strong>Master</strong> a <strong>Product</strong><strong>Owner</strong> do tandemu pro Střechu duševního zdraví –⁠ více
+              <a href="https://cesko-digital.atlassian.net/wiki/spaces/SDZ/pages/458790094/Otev%2Ben%2Brole%2Bv%2Bt%2Bmu?atlOrigin=eyJpIjoiMDIzZWMyOGNiMmEyNDkzMmFhMDI0OGI4YTZjMjM4YmQiLCJwIjoiYyJ9">zde</a>, kontaktní osoba Petra Fritsch a Dan Urban.
+            </li>
+          </ul>
+          <p>
+            Žádná z pozic vás nezaujala? <strong>Prohlédněte si všechny </strong><a href="https://cesko-digital.atlassian.net/l/c/Coy93ZmZ"><strong>poptávané role</strong></a><strong>.</strong>
+          </p>
+          <p>
+            Pokud hledáte jednorázové spolupráce, mohl by vás zajímat kanál
+            <a href="https://cesko-digital.slack.com/archives/CLVAH28P3">#market-place</a>, kde neziskovky shánějí dobrovolníky do rozjetých projektů. Svou první
+            zkušenost v neziskovce tak můžete nabrat i mimo
+            Česko.Digital.                                                        
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Imprint -->
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="1px" border-color="silver" />
+        <mj-text font-size="14px">
+          <p>Jak se vám líbí náš newsletter? Budeme rádi, když nám <a href="https://airtable.com/shre7lawrjOxNtCpL">necháte zpětnou vazbu</a>,
+            která nám ho pomůže zlepšit. Anebo se rovnou podívejte do naší <a href="https://trello.com/b/RmTwoiMq/cd-newsletter">Trello nástěnky</a>,
+            s čím byste nám mohli pomoct, ozvěte se v kanálu <a href="https://cesko-digital.slack.com/archives/CMAS7H63D">#ceskodigital_mktg</a>
+            a můžeme se do toho pustit společně.</p>
+          <p>Na přípravě tohoto vydání se podíleli: Terka Teryii Palaščáková & Tomáš „zoul“ Znamenáček (koordinace),
+            Anička Landsmannová, Dana Beneda, Gabi Konvalinková, Káťa Peřinová,
+            Lilly Ahou Král a Tom Jelen (texty), Zu Šrůmová (korektura) a Luky Vaněk (grafika).</p>
+        </mj-text>
+        <mj-spacer height="50px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#f3f3f3" full-width="full-width">
+      <mj-column>
+        <mj-text align="center" font-size="14px" color="gray">
+          <p>Už naše newslettery nechcete dostávat?<br>
+            <a href="*|UNSUB|*">Odhlásit se můžete zde</a></p>
+          <p>Česko.Digital<br>
+            Spěšného 391<br>
+            Roztoky 25263<br>
+            Česká republika</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
