@@ -84,7 +84,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding-bottom="20px">
+    <mj-section padding-bottom="30px">
       <mj-column>
         <mj-image src="https://data.cesko.digital/web/projects/inovace-zpravodajstvi/cover-inovace-zpravodajstvi.jpg" fluid-on-mobile="true" />
         <mj-text>
@@ -105,7 +105,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding-bottom="20px">
+    <mj-section padding-bottom="30px">
       <mj-column>
         <mj-image src="https://data.cesko.digital/web/projects/loono/cover-loono.jpg" fluid-on-mobile="true" />
         <mj-text>
@@ -127,7 +127,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding-bottom="20px">
+    <mj-section padding-bottom="30px">
       <mj-column>
         <mj-image src="https://data.cesko.digital/web/projects/spolu-na-dalku/cover-spolu-na-dalku.jpg" fluid-on-mobile="true" />
         <mj-text>
@@ -151,7 +151,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding-bottom="20px">
+    <mj-section padding-bottom="30px">
       <mj-column>
         <mj-image src="https://data.cesko.digital/web/projects/jehlomat/cover-jehlomat.jpg" fluid-on-mobile="true" />
         <mj-text>
@@ -170,7 +170,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding-bottom="20px">
+    <mj-section padding-bottom="30px">
       <mj-column>
         <mj-image src="https://data.cesko.digital/web/projects/ucime-online/cover-ucime-online.jpg" fluid-on-mobile="true" />
         <mj-text>
