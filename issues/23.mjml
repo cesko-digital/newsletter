@@ -39,7 +39,7 @@
     <!-- Header -->
     <mj-section background-color="blue" full-width="full-width">
       <mj-column>
-        <mj-image src="https://data.cesko.digital/img/445e673d.png" padding="0">
+        <mj-image src="https://data.cesko.digital/img/f47ce9d0.png" padding="0">
       </mj-column>
     </mj-section>
 
@@ -84,6 +84,137 @@
       </mj-column>
     </mj-section>
 
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/web/projects/inovace-zpravodajstvi/cover-inovace-zpravodajstvi.jpg" fluid-on-mobile="true" />
+        <mj-text>
+          <em>Inovace zpravodajského storytellingu</em><br>
+          <small>Navrhujeme prototypy, které zatraktivní způsob, jakým novináři sdělují zpravodajské informace</small>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          Už brzy ukážeme první výsledky naší práce. Společně s redakcemi
+          <a href="https://www.ceskenoviny.cz/">ČTK</a>,
+          <a href="https://www.drbna.cz/">Drbna</a>,
+          <a href="https://www.ctidoma.cz/">ČtiDoma</a> a
+          <a href="https://www.ekonews.cz/">Ekonews</a><strong> tvoříme prototypy, které představíme na Novinářském dni</strong> 18.
+          června. Stále nám však
+          <a href="https://docs.google.com/document/d/1WufispIL5XGRCHc8GMdpoOcTDO8PTEda6TQKGFqC48k/edit?usp=sharing">chybí vývojáři</a>. Chcete pomoci? Přihlaste se v kanálu <a href="https://cesko-digital.slack.com/archives/C01AENB1LPP">#run-inovace-zpravodajského-storytellingu</a>.  
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/web/projects/loono/cover-loono.jpg" fluid-on-mobile="true" />
+        <mj-text>
+          <em>Loono</em><br>
+          <small>Platforma poskytující veškeré informace o prevenci přehledně a na jednom místě</small>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          Jak se
+          <a href="https://cesko-digital.atlassian.net/wiki/spaces/LA/overview#Loono%3APr%C5%AFvodceprevenc%C3%AD-%F0%9F%93%91Kl%C3%AD%C4%8Dov%C3%A9dokumentyprojektu">náš projekt</a>
+          vyvíjí? Pokročili jsme hned na několika frontách. 💪 Rozpracovali jsme
+          důležité prototypy aplikace, které pokrývají všechny stěžejní funkcionality.
+          Založili jsme také účty v nástrojích, které potřebuje k práci náš hlavní
+          Flutter vývojář. Dále jsme získali
+          <strong>přístup do první databáze smluvních lékařů od pojišťovny </strong><a href="https://www.rbp213.cz/cs/"><strong>RBP</strong></a>, současně jednáme i s dalšími pojišťovnami. Mimo jiné jsme také definovali
+          rozsah MVP aplikace.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/web/projects/spolu-na-dalku/cover-spolu-na-dalku.jpg" fluid-on-mobile="true" />
+        <mj-text>
+          <em>Spolu na dálku</em><br>
+          <small>Řešení pro poskytovatele sociálních a zdravotnických služeb, které pacientům a klientům umožní kontakt s blízkými prostřednictvím videohovoru na chytrém zařízení</small>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          Máme za sebou další úspěšně dokončený
+          projekt. Co se nám podařilo dosáhnout?
+          <strong>Ve spolupráci s Národním telemedicínským centrem FNOL a Asociací
+            poskytovatelů sociálních služeb v ČR jsme vytvořili </strong><a href="http://cesko.digital/go/spolu"><strong>Příručku Spolu na dálku</strong></a>, o které si můžete přečíst
+          <a href="https://blog.cesko.digital/2021/05/spolu-na-dalku">v našem blogovém článku</a>
+          a kterou můžete i
+          <a href="https://cesko-digital.atlassian.net/l/c/Mz01GdLX">nadále sdílet</a>.
+          Jeden z prvních projektů ze zdravotnictví tak svou cestu v Česko.Digital
+          končí, předáváme ho do rukou zadavatele a my děkujeme všem, kdo se na něm
+          podíleli!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/web/projects/jehlomat/cover-jehlomat.jpg" fluid-on-mobile="true" />
+        <mj-text>
+          <em>Jehlomat</em><br>
+          <small>Bezpečná a rychlá likvidace injekčního odpadu odhozeného na veřejných prostranstvích</small>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          V květnu jsme v Jehlomatu jeli neskutečné bomby.
+          Nový člen týmu nám zpracoval moodboard, podle kterého jsme upravili vzhled
+          aplikace a začali s jejím navrhováním. Spuštění projektu jsme přesunuli z
+          konce června do druhé poloviny července a čeká nás testování aplikace s
+          terénními pracovníky.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/web/projects/ucime-online/cover-ucime-online.jpg" fluid-on-mobile="true" />
+        <mj-text>
+          <em>Učíme online</em><br>
+          <small>Chceme být dlouhodobou hybnou silou při proměně českého školství</small>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          I přes otevřené školy<strong>neklesá zájem učitelů o naše webináře</strong>
+          Učíme nanečisto. Webináře s tématy blížícího se konce školního roku nebo
+          kreativního využití moderní technologie v prezenční výuce
+          <strong>budeme vysílat až do půlky června</strong>, <a href="https://www.ucimeonline.cz/aktivity/ucime-nanecisto/">více zde</a>. Vnímáme také zájem o počítačovou techniku z naší sbírky počítačů. Pokud
+          víte o společnosti, která by mohla darovat použité počítače nebo notebooky,<a href="https://www.ucimeonline.cz/aktivity/sbirka-pocitacu/">sem s ní</a>! A ještě jedna velká novinka –
+          <strong>Učíme online jede do finále cen SDGs</strong>! Letos se přihlásilo 238
+          projektů, které mění svět k lepšímu, a 8 z nich postoupilo do finále. A mezi
+          nimi je i náš projekt. Držte palce!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/web/projects/zacni-ucit/cover-zacni-ucit.jpg" fluid-on-mobile="true" />
+        <mj-text>
+          <em>Začni učit!</em><br>
+          <small>Provázíme zájemce o učitelství vším, co potřebují znát, aby se mohli stát pedagogy</small>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          Odstartovali jsme tvorbu nového webu Začni učit!. Na společném workshopu jsme začali skládat základní kameny jeho nové
+          podoby a už teď se těšíme na výsledek. Marketingový tým rozplánoval spuštění
+          projektu a část z nás se konečně sešla naživo, řádně otestovaná a s dodržením
+          veškerých opatření, a dala si v Kasárnách Karlín pivo ⤵︎
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/img/3923774d.jpg" padding="10px 0 10px 0">
+      </mj-column>
+    </mj-section>
 
     <mj-section padding-bottom="20px">
       <mj-column>
