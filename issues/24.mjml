@@ -1,0 +1,322 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="cesko-digital, Helvetica" color="#333" />
+      <mj-text font-size="17px" line-height="160%" />
+      <mj-section padding="0" />
+    </mj-attributes>
+    <mj-style>
+      @font-face {
+        font-family: 'cesko-digital';
+        font-style: normal;
+        font-weight: 100;
+        src: url(https://data.cesko.digital/font/regular.woff) format('woff');
+      }
+
+      @font-face {
+        font-family: 'cesko-digital';
+        font-style: normal;
+        font-weight: bold;
+        src: url(https://data.cesko.digital/font/bold.woff) format('woff');
+      }
+
+      h1 {
+        line-height: 130%;
+      }
+
+      a {
+        color: blue;
+      }
+
+      em {
+        font-style: normal;
+        font-weight: bold;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+
+    <!-- Header -->
+    <mj-section background-color="blue" full-width="full-width">
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/img/2c0c80f9.png" padding="0">
+      </mj-column>
+    </mj-section>
+
+    <!-- Intro -->
+    <mj-section background-color="#f3f3f3" full-width="full-width">
+      <mj-column>
+        <mj-text>
+          <p>Ahoj, Česko.Digital! 👋</p>
+          <p>Je tu další letní měsíc a s ním i další newsletter. Tentokrát je ovšem v něčem speciální. Pozveme vás totiž na oslavy druhého výročí vzniku Česko.Digital. 🥳 V rámci oslav na vás čekají zajímavé online i offline aktivity. Na co konkrétně se můžete těšit? A co nového se povedlo v rámci jednotlivých projektů? To všechno najdete na následujících řádcích. Tak se pohodlně usaďte, nalijte si ledový nápoj a pusťte se do čtení.<p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Main Feature -->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h1>V Česko.Digital nás spojují 1 a 0 a slavíme spolu 2 roky!</h1>
+          <p>Česko.Digital od zrodu v roce 2019 funguje na principu komunity expertních dobrovolníků, které dává dohromady společná touha měnit Česko k lepšímu. Zní to dost neuvěřitelně, ale letos v červenci už je nás víc než čtyři tisíce. Odborníci z řad programátorů, vývojářů, grafiků, projektových či produktových manažerů a dalších profesí bez nároku na honorář pomáhají státu, obcím i neziskovým organizacím s rozvojem jejich digitálních služeb.</p>
+          <p>Česko.Digital může nabídnout hřejivý pocit z pomoci, nové kontakty nebo možnost se odborně posunout. Na oplátku ale dostáváme mnohem víc – jste to vy, kdo pozitivně ovlivňuje rozvoj v Česku a aktivně se tak zúčastňuje na posouvání naší komunity vpřed. <em>Za to vám všem moc děkujeme!</em></p>
+          <p>Letos <em>slavíme druhé narozeniny</em>, a tak se tento týden ponese v duchu zajímavých online i offline aktivit. Startujeme už dnes, 12. července – <em>živým setkáním v pražském coworkingu <a href="https://opero.cz/cs">Opero</a></em>, na které vás všechny zveme.</p>
+          <p>Je to skvělá možnost setkat se naživo, přiťuknout si a neformálně si popovídat. Zároveň se dozvíte plno novinek přímo od leadership týmu, který přiblíží budoucí plány na to, jak z Česko.Digital udělat dlouhodobě udržitelnou organizaci. Pokud nemůžete dorazit, nezoufejte, <a href="https://cesko.digital/events/narozeniny">připojit se můžete i online</a>.</p>
+          <p>A co dalšího pro vás chystáme? Podívejte se na <a href="https://cesko.digital/events/narozeniny">všechny detaily ke komunitní oslavě</a>, která se uskuteční od 12. do 17. července.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Divider -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/img/46156a90.jpg" padding="10px 0 10px 0">
+      </mj-column>
+    </mj-section>
+
+    <!-- Projects -->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h1>To nejlepší z našich projektů</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="30px">
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/web/projects/inovace-zpravodajstvi/cover-inovace-zpravodajstvi.jpg" fluid-on-mobile="true" />
+        <mj-text>
+          <em>Inovace zpravodajského storytellingu</em><br>
+          <small>Navrhujeme prototypy, které zatraktivní způsob, jakým novináři sdělují zpravodajské informace</small>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          Skoro třetina Čechů zprávy vůbec nesleduje – a chceme to změnit. Po několikaměsíční spolupráci dobrovolníků
+          z řad novinářů, vývojářů i designérů a marketingových specialistů <em>představujeme tři řešení</em>, které
+          mají lidem umožnit sledovat zprávy přístupnější formou: <em>Témata pod lupou</em> (čtenáři sami navrhují témata,
+          která jsou podle nich v médiích opomíjená), <em>Audio</em> (zájemcům se budou vybrané zprávy předčítat a doporučovat další),
+          <em>Newsie</em> (prvky gamifikace, využívá chatbota i personalizaci zpráv). Jak to celé probíhalo a mnohem víc o
+          jednotlivých prototypech se dočtete <a href="https://blog.cesko.digital/2021/06/inovace-storytellingu">v blogovém článku</a>
+          nebo <a href="https://blog.cesko.digital/2021/06/storytelling">rozhovoru</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="30px">
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/web/projects/ucime-online/cover-ucime-online.jpg" fluid-on-mobile="true" />
+        <mj-text>
+          <em>Učíme online</em><br>
+          <small>Chceme být dlouhodobou hybnou silou při proměně českého školství</small>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          V červnu skončil školní rok nejen ve školách, ale i v Učíme nanečisto. Uzavřeli jsme ho 15. června
+          webinářem s číslem 99. Tento i <em>všechny již odvysílané webináře <a href="https://www.ucimeonline.cz/aktivity/ucime-nanecisto/videoteka/">najdete v naší videotéce</a></em>,
+          která má novou vizáž. I v novém školním roce je na co se těšit – <em>s webináři budeme pokračovat</em> a chystáme úpravu celých stránek Učíme online.
+
+          V červnu také došlo v projektu k významnému milníku, <em>podpisu memoranda o vzájemné spolupráci
+            s Národním pedagogickým institutem</em>. Pod křídla NPI by ke konci roku měla přejít větší část
+          aktivit Učíme online. Cílem je předat především naše know-how, zkušenosti a principy podpory učitelů,
+          které pak bude NPI dále rozvíjet.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="30px">
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/web/projects/verejne-zakazky-spolu/cover-verejne-zakazky-spolu.jpg" fluid-on-mobile="true" />
+        <mj-text>
+          <em>Veřejné zakázky spolu</em><br>
+          <small>Pomáháme státu poskytovat a rozvíjet služby v souladu s technologickými trendy prostřednictvím kultivace prostředí zadávání veřejných zakázek</small>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          Organizujeme <a href="https://cesko-digital.atlassian.net/l/c/E0nA06VL">festival pro úředníky</a>, abychom
+          posílili komunitu profesionálů ze státní správy a propojili je jak mezi sebou, tak i s neziskovým a soukromým
+          sektorem. Nově zapojené posily připraví vzorovou zadávací dokumentaci a metodiku k ní tak, aby firmy dokázaly
+          <em>reálně nacenit práce pro zadavatele</em>. Proběhla také <em>panelová diskuze na téma vendor lock-in</em>.
+          Na základě zpětné vazby naplánujeme ještě debatu na téma open source.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="20px">
+      <mj-column>
+        <mj-text>
+          O všech projektech, na kterých pracujeme, si můžete <a href="https://cesko-digital.atlassian.net/l/c/1RriTPgP">přečíst na naší wiki</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Divider -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/img/dad68fa0.png" padding="10px 0 10px 0">
+      </mj-column>
+    </mj-section>
+
+    <!-- Feature -->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h1>Hackday – Loono: Průvodce prevencí</h1>
+          <p><em><a href="https://cesko.digital/portal-dobrovolnika">Zapojte se do Flutter Hackday</a> už za necelý týden!</em> Pokud si chcete vyzkoušet vývoj v praxi pod mentorským vedením seniorních Flutter vývojářů a společně tvořit aplikaci Průvodce prevencí neziskové organizace <a href="https://www.loono.cz/">Loono</a> – právě pro vás je tato příležitost jak vyšitá!</p>
+          <p>Příprava aplikace, která bude uživatelům připomínat preventivní prohlídky a zároveň je vzdělávat o prevenci a zdraví, je v plném proudu. Máme hotové vizuály, tým je (téměř) kompletní, ale chybí nám juniorní Flutter vývojáři.
+            <p>Celodenní hackday pořádáme 17. července v HUBHUB v paláci Ara, 9.00–19.00.</p>
+            <p><em>Na místě budou seniorní vývojáři</em>, kteří vás vším provedou a zasvětí do detailů, se kterými potřebujeme právě teď pomoc.</p>
+            <p>Více informací o hackday včetně registračního formuláře najdete <a href="https://cesko.digital/portal-dobrovolnika">zde</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Divider -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/img/dad68fa0.png" padding="10px 0 10px 0">
+      </mj-column>
+    </mj-section>
+
+    <!-- Feature -->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h1>Co se klube v našem inkubátoru</h1>
+          <p>Za 2 roky práce na projektech a jejich řízení <em>jsme po nasbíraných zkušenostech začali
+              sepisovat <a href="https://cesko-digital.atlassian.net/wiki/spaces/CD/pages/598281194/Projektov+metodika+aneb+jak+d+me+projekty+v+.d">tipy a postupy na projektovou metodiku</a></em> v č.d. Nejvíce jsme se inspirovali agilním řízením, které nám s expertním dobrovolnictvím sedí nejlépe!</p>
+          <p>Pokud se chceš v agilním řízení rozvíjet, <em>můžeš se stát Scrum Masterem nebo Product Ownerem</em>
+            na jednom z našich projektů a pravidelně chodit na setkání <i>agile leaders</i>. Více informací najdete
+            na Slacku v kanálu <a href="https://cesko-digital.slack.com/archives/C01UN75EREZ">#ceskodigital-agile_leaders</a> nebo u Romany Pokorné.</p>
+          <p>A pokud máte tip na další neziskovku, které jsou blízké hodnoty Česko.Digital a potřebovala by rozjet
+            digitální inovativní projekt, dejte nám o ní vědět <a href="https://cesko-digital.slack.com/archives/C01AMGXT9HQ">do kanálu inkubátoru</a>
+            nebo na email <a href="mailto:romana@cesko.digital">romana@cesko.digital</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Divider -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/img/8dec0b43.jpg" padding="10px 0 10px 0">
+      </mj-column>
+    </mj-section>
+
+    <!-- Feature -->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h1>Jak si v komunitě žijeme</h1>
+          <p>Proběhlo <em>první po-pandemické osobní komunitní setkání</em> v Praze. Těšíme se, že odteď
+            se budeme vídat častěji i jinak než za obrazovkami počítačů. Další příležitost bude hned <em>v úterý
+              20. 7. na akci pivo-víno-limo #2 v Praze</em> a v srpnu při setkání v Brně. Sledujte náš Slack, ať vám
+            nic neunikne.</p>
+
+          <h2>Motivace dobrovolníků</h2>
+          <p>Je pro nás důležité, aby nám spolu v Česko.Digital bylo co nejlépe. Už podruhé vám tak <em>posíláme
+              <a href="https://airtable.com/shreSYKVUv4eMSEhz">náš komunitní dotazník</a></em>, abychom zjistili, co nás
+            do komunity přivedlo, co nás v ní drží a v čem se zlepšit. Pomozte nám zjistit, co můžeme dělat lépe!</p>
+
+          <h2>č.edu</h2>
+          <p>V červnu jsme uspořádali první rozsáhlejší <em>workshop s názvem „Jak na osobní produktivitu“</em> s odborníkem
+            <a href="https://danielgamrot.cz/">Danielem Gamrotem</a>. Otestovali jsme tím i ranní 2,5hodinový formát. Poslední
+            pondělí v měsíci jsme zase v rámci <em>workshopu „Jak na Figmu“</em> se Šnorbim a Jánem Dugovičem získali cenné
+            znalosti a tipy k tvorbě jednoduchých grafik ve Figmě.</p>
+
+          <p>Ani během letních prázdnin však č.edu nespí. Připravujeme pro vás <em>další webinář na téma <a href="https://cesko-digital.atlassian.net/wiki/spaces/VWE/pages/647364887/Webin+5+Well-being+du+evn+hygiena+27.+7.+v+16+00">Life balance a duševní
+                hygiena</a> s Petrou Fritsch</em>, který se bude konat v úterý 27. července od 18 hodin prostřednictvím Google Meet. Registrovat se můžete už nyní skrze tento formulář.</p>
+
+          <p>Náš střihačský tým se chopil záznamů i z našich předchozích akcí a webinář „Jak na launch v Česko.Digital“
+            už najdete <a href="https://cesko-digital.atlassian.net/l/c/UkmGR6px">v naší wiki videotéce</a>. Další budou přibývat.
+            O prázdninách pak přineseme i nepracovní témata, jako je třeba wellbeing a duševní hygiena. <em>Detaily najdete
+              v <a href="https://cesko-digital.atlassian.net/l/c/0D4t3fiP">kalendáři vypsaných akcí</a>.</em>
+
+            <h2>Show&Tell</h2>
+            <p>Podívejte se s námi na <em>zajímavé osobnosti</em>, které stojí za projekty a jejich výzvami!
+              Ve <a href="https://www.youtube.com/watch?v=cVKP-vyDGyA&ab_channel=%C4%8Cesko.Digital">třetím dílu</a>
+              našeho pořadu Show&Tell jsme nahlédli do světa marketingové ředitelky Česko.Digital, Evy Zehnálkové, a
+              seznámili se s blíže se směřováním marketingu v č.d. Společně s Adélou Kalusovou z projektu Loono jsme
+              se podívali na změny v agilním řízení projektu s nástrojem Jira. V neposlední řadě s námi autoři pořadu
+              a jeden z nových koordinátorů, Lukáš Krištof, sdíleli budoucí plány s pořadem.</p>
+
+            <p><em>Cílem nových koordinátorů <a href="https://cesko.digital/show-and-tell">Show&amp;Tell</a> je vytvořit
+                atraktivní pořad</em>, který nabídne zajímavý pohled do práce jednotlivců a dobrovolníků v projektech. Věříme,
+              že s novými posilami pro natáčení, střih videa, copywriting a marketing se nám to povede! <em>Do týmu neustále
+                hledáme další pozice</em>, a proto nám neváhejte napsat do <a href="https://app.slack.com/client/TG21XF887/CS7RPPVUL">tech kanálu č.d</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Divider -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/img/dad68fa0.png" padding="10px 0 10px 0">
+      </mj-column>
+    </mj-section>
+
+    <!-- Feature -->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h1>Koho aktuálně hledáme</h1>
+          <p>
+            Připojte se k největší dobrovolnické civic-tech organizaci v Evropě a
+            digitalizujte s námi Česko.
+          </p>
+          <ul>
+            <li><a href="https://cesko-digital.atlassian.net/wiki/spaces/LA">Mobilní Flutter vývojáři</a> a
+              <a href="https://cesko-digital.atlassian.net/wiki/spaces/LA">Backend Kotlin vývojáři</a> pro Loono: Průvodce prevencí
+            <li>Backend Django programátory a Frontend React programátory pro <a href="https://cesko-digital.slack.com/archives/C01CDSTV8KF">Začni učit!</a>
+            <li><a href="https://cesko-digital.atlassian.net/wiki/spaces/SDZ/pages/458790094/Otev+en+role+v+t+mu?atlOrigin=eyJpIjoiZWJiZDQzYWQ3ZmMxNGM5ODhiMGVjZGY0OTVkMGU0YzkiLCJwIjoiYyJ9">Obsahový koordinátor</a>
+              a <a href="https://cesko-digital.atlassian.net/wiki/spaces/SDZ/pages/458790094/Otev+en+role+v+t+mu?atlOrigin=eyJpIjoiZWJiZDQzYWQ3ZmMxNGM5ODhiMGVjZGY0OTVkMGU0YzkiLCJwIjoiYyJ9">Marketingový stratég pro tvorbu videí</a>
+              pro Střechu duševního zdraví
+          </ul>
+          <p>
+            Žádná z pozic vás nezaujala? <strong>Prohlédněte si všechny </strong><a href="https://cesko-digital.atlassian.net/l/c/VCYAW1U1"><strong>poptávané role</strong></a><strong>.</strong>
+          </p>
+          <p>
+            Pokud hledáte jednorázové spolupráce, mohl by vás zajímat kanál
+            <a href="https://cesko-digital.slack.com/archives/CLVAH28P3">#market-place</a>, kde neziskovky shánějí dobrovolníky do rozjetých projektů. Svou první
+            zkušenost v neziskovce tak můžete nabrat i mimo
+            Česko.Digital.                                                        
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Imprint -->
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="1px" border-color="silver" />
+        <mj-text font-size="14px">
+          <p>Jak se vám líbí náš newsletter? Budeme rádi, když nám <a href="https://airtable.com/shre7lawrjOxNtCpL">necháte zpětnou vazbu</a>,
+            která nám ho pomůže zlepšit. Anebo se rovnou podívejte do naší <a href="https://trello.com/b/RmTwoiMq/cd-newsletter">Trello nástěnky</a>,
+            s čím byste nám mohli pomoct, ozvěte se v kanálu <a href="https://cesko-digital.slack.com/archives/CMAS7H63D">#ceskodigital_mktg</a>
+            a můžeme se do toho pustit společně.</p>
+          <p>Na přípravě tohoto vydání se podíleli: Terka Teryii Palaščáková &amp; Lucka Ellingerová (koordinace),
+            Gabi Konvalinková, Káťa Peřinová, Petr Hrudka, Tom Jelen, Vanda Adlerová a Anička Landsmannová (texty),
+            Zu Šrůmová (korektura) a Swenia Kalianko (grafika).</p>
+        </mj-text>
+        <mj-spacer height="50px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#f3f3f3" full-width="full-width">
+      <mj-column>
+        <mj-text align="center" font-size="14px" color="gray">
+          <p>Už naše newslettery nechcete dostávat?<br>
+            <a href="*|UNSUB|*">Odhlásit se můžete zde</a></p>
+          <p>Česko.Digital<br>
+            Spěšného 391<br>
+            Roztoky 25263<br>
+            Česká republika</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
