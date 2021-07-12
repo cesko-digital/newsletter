@@ -165,11 +165,11 @@
       <mj-column>
         <mj-text>
           <h1>Hackday – Loono: Průvodce prevencí</h1>
-          <p><em><a href="https://cesko.digital/portal-dobrovolnika">Zapojte se do Flutter Hackday</a> už za necelý týden!</em> Pokud si chcete vyzkoušet vývoj v praxi pod mentorským vedením seniorních Flutter vývojářů a společně tvořit aplikaci Průvodce prevencí neziskové organizace <a href="https://www.loono.cz/">Loono</a> – právě pro vás je tato příležitost jak vyšitá!</p>
+          <p><em><a href="https://cesko.digital/events/hackday-loono-flutter">Zapojte se do Flutter Hackday</a> už za necelý týden!</em> Pokud si chcete vyzkoušet vývoj v praxi pod mentorským vedením seniorních Flutter vývojářů a společně tvořit aplikaci Průvodce prevencí neziskové organizace <a href="https://www.loono.cz/">Loono</a> – právě pro vás je tato příležitost jak vyšitá!</p>
           <p>Příprava aplikace, která bude uživatelům připomínat preventivní prohlídky a zároveň je vzdělávat o prevenci a zdraví, je v plném proudu. Máme hotové vizuály, tým je (téměř) kompletní, ale chybí nám juniorní Flutter vývojáři.
             <p>Celodenní hackday pořádáme 17. července v HUBHUB v paláci Ara, 9.00–19.00.</p>
             <p><em>Na místě budou seniorní vývojáři</em>, kteří vás vším provedou a zasvětí do detailů, se kterými potřebujeme právě teď pomoc.</p>
-            <p>Více informací o hackday včetně registračního formuláře najdete <a href="https://cesko.digital/portal-dobrovolnika">zde</a>.
+            <p>Více informací o hackday včetně registračního formuláře najdete <a href="https://cesko.digital/events/hackday-loono-flutter">zde</a>.
         </mj-text>
       </mj-column>
     </mj-section>
