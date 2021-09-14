@@ -39,7 +39,7 @@
     <!-- Header -->
     <mj-section background-color="blue" full-width="full-width">
       <mj-column>
-        <mj-image src="https://data.cesko.digital/img/7011aaa8.png" padding="0">
+        <mj-image src="https://data.cesko.digital/newsletter/26/cover.png" padding="0">
       </mj-column>
     </mj-section>
 
@@ -48,7 +48,7 @@
       <mj-column>
         <mj-text>
           <p>Ahoj, Česko.Digital! 👋</p>
-          <p>Předně vám představíme Portál dobrovolníka, který usnadní cestu každému, kdo chce přiložit ruku k dílu a zapojit se do nějakého projektu. Brzy také spustíme nový web Začni učit!. Pro projekt se nám dokonce podařilo získat záštitu MŠMT! 🎉 A pokud chcete pomoci českým novinářům, ale máte jen pár minut, máme pro vás jeden tip. Příjemné čtení!
+          <p>I s mizejícími slunečními paprsky máme energii na rozdávání a radujeme se nad dalšími dokončenými projekty. Po dlouhých měsících práce pouštíme do světa nový web Začni učit! a věříme, že zájemcům o učitelství usnadní cestu ke katedře. A jestli si nejste jisti, zda nedlužíte státu, ověřte si to jednoduše na nové verzi webu Nedlužím státu. Na srdci toho máme ale mnohem víc. Užijte si zářijové čtení!</p>
           <p>
         </mj-text>
       </mj-column>
@@ -58,11 +58,34 @@
     <mj-section>
       <mj-column>
         <mj-text>
-          <h1>Portál dobrovolníka – místo příležitostí k zapojení i setkávání</h1>
-          <p>Víme, že vám náš Slack nebo wiki někdy připadá jako <a href="https://cs.wikipedia.org/wiki/M%C3%ADn%C3%B3%C5%AFv_labyrint">Mínóův labyrint</a>. Ale i my se učíme a hledáme cesty, jak fungování v tak velké komunitě zjednodušit a usnadnit. Ariadné dostala svého milence Thésea z tohoto labyrintu pomocí klubka červené vlny. Náš portál je sice modré barvy, ale určitě vás ze spleti zpráv ve Slacku nebo informací na wiki vysvobodí.</p>
-          <p><strong>Proč ho používat?</strong> Je to tržiště příležitostí i budoucí kalendář akcí komunity Česko.Digital. <strong>Usnadní vám dobrovolnickou cestu k příležitosti</strong>, která by pro vás mohla být zajímavá. Zároveň díky veřejnému přístupu na našem webu láká nové odborníky do naší komunity. </p>
-          <p>Aktuálně jsou v Portálu pouze eventy, ale v nejbližší době zde přidáme i poptávané role a úkoly na projektech. Zapojení do aktivit č.d tak bude mnohem jednodušší. <strong>Uložte si náš <a href="https://cesko.digital/portal-dobrovolnika">Portál dobrovolníka</a> do záložek</strong> a věnujte více času samotné práci než orientaci ve všech nástrojích a stránkách!</p>
+          <h1>Spouštíme nové verze webů Začni učit! a Nedlužím státu</h1>
+          <h2>Víte jistě, že nedlužíte státu?</h2>
+          <p>Dlužit státu je totiž jednodušší, než si možná myslíte. Každý může zapomenout zaplatit pokutu za parkování nebo třeba poplatek za popelnice. Web <a href="https://nedluzimstatu.cz/">Nedlužím státu</a> proto už více než rok umožňuje každému zjistit, jestli státu nic nedluží. A nyní vstupuje do nové fáze. 🎉</p>
+          <p><strong>Co přesně je teď na webu nového?</strong>
+          <ul>
+          <li>
+          <strong>Funkce poloautomatického vyplňování údajů ve formulářích,</strong>, kterými je možné dluh u státních institucí ověřit. Nově tak stačí vyplnit informace jen jednou, systém si je zapamatuje a použije je ve všech formulářích, které potřebujete vyplnit.</p>
+          </li>
+          <li>
+          <strong>Všechny citlivé údaje jsou dobře chráněny</strong>. Uživatelská data slouží pouze k vygenerování formulářů a nejsou nikde ukládána. Ihned po použití se odstraní a nehrozí tak jejich zneužití.</p>
+          </li>
+          <li>
+          Přidali jsme také další potřebné formuláře a návody pro <strong>žádost o splátkový kalendář</strong> nebo <strong>žádost o odpuštění penále</strong>.</p>
+          </li>
+          <li>
+          Vznikla <strong>nová podstránka, která přibližuje příběh</strong> a tým Nedlužím státu.</p>
+          </li>
+          </ul>
+          <p>I vy teď můžete zjistit, jestli nedlužíte státu. 💸 <strong>Stačí navštívit web <a href="https://nedluzimstatu.cz/">Nedlužím státu</a></strong> a rovnou si celé prostředí (včetně novinek) vyzkoušet. Uvítáme jakoukoliv zpětnou vazbu – napsat nám můžete do kanálu <a href="https://cesko-digital.slack.com/archives/CHTQQN5AL">na Slacku</a> nebo na e-mailovou adresu <a href="mailto:podnety@nedluzimstatu.cz">podnety@nedluzimstatu.cz</a>.</p>
+          <p>Těšíme se na všechny vaše připomínky a <strong>děkujeme celému týmu</strong> expertních dobrovolníků z Česko.Digital a týmu <a href="https://www.institut-predluzeni.cz/">Institutu prevence a řešení předlužení</a>!</p>
         </mj-text>
+      </mj-column>
+    </mj-section>
+
+      <!-- Divider -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/newsletter/26/mockup2.jpg" padding="10px 0 10px 0">
       </mj-column>
     </mj-section>
 
@@ -70,10 +93,37 @@
     <mj-section>
       <mj-column>
         <mj-text>
-          <h1>Kam směřujeme</h1>
-          <p>V Česko.Digital máme hezky našlápnuto – jaké jsou tedy naše plány? Hlavní vize ale i novinky byly obsahem nedávného rozhovoru Evy Pavlíkové a Jakuba Nešetřila, našich dvou zakladatelů, pro <a href="https://specialy.hn.cz/c7-66954060-1-acbfe9863063def">Speciál Hospodářských novin</a>. </p>
-          <p>Můžete se dočíst například o tom, jaká témata rozvíjíme, ale i to, že bychom chtěli <strong>více spolupracovat se civic-tech organizacemi v Evropě</strong> a přinášet tak inspiraci ze zahraničí a naopak sdílet naše úspěchy. Do budoucna vidíme mnoho příležitostí a nevzdáváme ani <strong>pomoc státu s digitální agendou</strong>. Stále věříme, že lze i státu, což je v podstatě také služba občanům, pomoci dosáhnout systémových změn s velkým dopadem. Nejen proto jsme založili nový <a href="https://cesko-digital.slack.com/archives/C02335XFJ00">#egovernment-club</a>, kde spolupracujeme s dalšími neziskovými organizacemi. </p>
-          <p>Kromě toho <strong>neustáváme ani v revizi našeho interního provozu</strong>, kde jsme například dokončili <a href="https://cesko-digital.atlassian.net/wiki/spaces/CD/pages/644809255/V+stupy+z+dotazn+ku+a+n+vrh+nov+ch+hodnot+esko.Digital">refresh hodnot Česko.Digital</a>, který je základem pro další plány a rozvoj organizace. Intenzivně také překlápíme řízení projektů do agilní metodiky, což začíná přinášet výsledky. A co nás čeká v nejbližší době? Čtěte dále a zjistěte, co se děje přímo na projektech.</p>
+          <h1>Začni učit! jako průvodce pro začínající učitele</h1>
+          <p>Skvělá zpráva – dlouhé měsíce práce přinesly své ovoce a <strong>nový <a href="https://nedluzimstatu.cz/">web Začni učit!</a> je na světě!</strong></p>
+          <p><strong>Co nový web přináší?</strong>
+          <ul>
+          <li>
+          <strong>Usnadňuje zájemcům o učitelství cestu za katedru díky přehlednému shrnutí,</strong> jak a kde si doplnit kvalifikaci, nebo možnosti vyzkoušet si učení nanečisto. </p>
+          </li>
+          <li>
+          Zároveň <strong>nabízí sekci tipů a triků</strong> nebo příběhy učitelů z praxe.</p>
+          </li>
+          <li>
+          Brzy <strong>navíc spustíme interaktivního průvodce,</strong> který poradí se získáním potřebné kvalifikace, abyste mohli začít učit. 👨‍🏫</p>
+          </li>
+          </ul>
+          <p>Děkujeme celému týmu expertních dobrovolníků z Česko.Digital a týmu Začni učit! za super práci! Další informace ke spuštění stránek v novém kabátu najdete také <a href="https://blog.cesko.digital/2021/08/spustili-jsme-web-zacni-ucit">na našem blogu.</a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+     <!-- Divider -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://data.cesko.digital/newsletter/26/mockup.jpg" padding="10px 0 10px 0">
+      </mj-column>
+    </mj-section>
+
+    <!-- Main Feature -->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <p>O všech projektech, na kterých v č.d pracujeme, si můžete přečíst na naší <a href="https://cesko-digital.atlassian.net/l/c/1RriTPgP">wiki</a>.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -85,94 +135,34 @@
       </mj-column>
     </mj-section>
 
-    <!-- Projects -->
+   <!-- Main Feature -->
     <mj-section>
       <mj-column>
         <mj-text>
-          <h1>To nejlepší z našich projektů</h1>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section padding-bottom="30px">
-      <mj-column>
-        <mj-image src="https://data.cesko.digital/web/projects/zacni-ucit/cover-zacni-ucit.jpg" fluid-on-mobile="true" />
-        <mj-text>
-          <em>Začni učit!</em><br>
-          <small>Provázíme zájemce o učitelství vším, co potřebují znát, aby se mohli stát pedagogy</small>
-        </mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-text>
-          <strong>Blíží se nám spuštění nového webu a my jedeme na plné obrátky.</strong> Čeká nás náročná cílová rovinka, kterou s pomocí nových dobrovolných vývojářů určitě zdoláme. Tým copywriterů a designérů připravil texty nejdůležitějších částí webu, pracujeme na technickém zajištění pro přechod na nový web a na textech pro samotný launch projektu. <strong>Naši důvěryhodnost potvrzuje získání záštity Ministerstva školství, mládeže a tělovýchovy</strong>, kde máme dohodnutou kontrolu celého systému, která prověří jeho správné fungování.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section padding-bottom="30px">
-      <mj-column>
-        <mj-image src="https://data.cesko.digital/web/projects/inovace-zpravodajstvi/cover-inovace-zpravodajstvi.jpg" fluid-on-mobile="true" />
-        <mj-text>
-          <em>Inovace zpravodajského storytellingu</em><br>
-          <small>Navrhujeme prototypy, které zatraktivní způsob, jakým novináři sdělují zpravodajské informace</small>
-        </mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-text>
-          I v době dovolených <strong>zvládáme posouvat tři prototypy</strong>. Vděčíme za to pečlivému plánování tech-leadů a průběžné práci programátorů i jiných dobrovolníků. <strong>První výsledek týmu „Témata pod lupou“ už můžete sami vyzkoušet ve vybraných zpravodajských redakcích Drbna.cz</strong>, třeba na webu <a href="https://prazska.drbna.cz/z-kraje/praha-6/6506-zustane-jedenactimetrova-rozhledna-siska-na-ladronce-rozhoduje-verejnost.html">Pražské Drbny</a>. Pomozte nám nastavený proces otestovat a přes formulář v červeném banneru navrhněte vlastní téma, které by měla redakce zpracovat. Děkujeme!
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section padding-bottom="30px">
-      <mj-column>
-        <mj-image src="https://data.cesko.digital/img/9fb07286.jpg" fluid-on-mobile="true" />
-        <mj-text>
-          <em>Loono – průvodce prevencí</em><br>
-          <small>Platforma poskytující veškeré informace o prevenci přehledně a na jednom místě</small>
-        </mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-text>
-          <strong>Absolvovali jsme nejen první teambuilding, ale i první úžasný a úspěšný <a href="https://www.facebook.com/cesko.digital/photos/a.2360054424238229/3008126396097692">hackday</a></strong>, ze kterého máme výsledky v podobě nových týmových členů i návrhů aplikace. <strong>Na telefonu si také můžete proklikat <a href="https://www.figma.com/proto/E3BhDWp6O8d1XmsbC46mcr/Loono?page-id=258%3A694&amp;node-id=768%3A2214&amp;viewport=-1281%2C-6727%2C0.24001646041870117&amp;scaling=min-zoom&amp;starting-point-node-id=768%3A2214&amp;show-proto-sidebar=1">první prototyp onboardingu</a>!</strong> Postupně připravujeme ostatní sekce pro další sprinty. Tým posílila IT analytička, která nám pomůže s přípravou úkolů pro tým vývoje. Ruku v ruce s tím řešíme, jak udržet projektový tým, až aplikaci převezme do správy Loono. Sháníme také technické partnery i finanční podporu na udržení a rozvoj aplikace.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section padding-bottom="30px">
-      <mj-column>
-        <mj-image src="https://data.cesko.digital/web/projects/ucime-online/cover-ucime-online.jpg" fluid-on-mobile="true" />
-        <mj-text>
-          <em>Učíme online</em><br>
-          <small>Chceme být dlouhodobou hybnou silou při proměně českého školství</small>
-        </mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-text>
-          Po červencových projektových „prázdninách“ se vracíme zpět do pracovního tempa. Během příprav webinářů na září jsme vycházeli ze zpětné vazby účastníků a proto věříme, že se jim nová témata budou líbit. <strong>Pro firmy, které chtějí darovat nepotřebné počítačové vybavení, jsme vytvořili podrobný manuál procesu, tzv. „<a href="https://www.ucimeonline.cz/wp-content/uploads/2021/07/Cesko.Digital_Darujte-techniku-1.pdf">Digitální kuchařku</a>“</strong>, a naši spolupráci s <a href="https://www.npi.cz/">NPI</a> nadále prohlubujeme a propojujeme naše aktivity.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section padding-bottom="30px">
-      <mj-column>
-        <mj-image src="https://data.cesko.digital/web/projects/strecha-dusevniho-zdravi/cover-strecha-dusevniho-zdravi.jpg" fluid-on-mobile="true" />
-        <mj-text>
-          <em>Střecha duševního zdraví</em><br>
-          <small>Připravujeme jednotné místo pro prevenci a včasnou pomoc při duševní nepohodě či složité životní situaci</small>
-        </mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-text>
-          Červenec se nesl hlavně v tónu získávání nových partnerů, kteří nám obsahově zastřeší jednotlivé scénáře. Podařilo se už získat 6 partnerů a na dalších se pracuje. Nejdůležitější je však to, že <strong>prototyp prvního scénáře můžete už teď nalézt <a href="https://strecha.ceskodigital.net/problemy-ve-skole">na této webové adrese</a>!</strong> Stále však <strong>hledáme <a href="https://cesko-digital.atlassian.net/wiki/spaces/SDZ/pages/458790094/Otev+en+role+v+t+mu#Tv%C5%AFrce-vizu%C3%A1ln%C3%ADho-obsahu-%F0%9F%91%A9%E2%80%8D%F0%9F%8E%A8">grafiky a ilustrátory</a></strong>, kteří by s námi vytvořili grafické materiály a klíčové vizuály pro web, mobilní aplikaci i doprovodnou marketingovou kampaň.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section padding-bottom="20px">
-      <mj-column>
-        <mj-text>
-          O všech projektech, na kterých pracujeme, si můžete <a href="https://cesko-digital.atlassian.net/l/c/1RriTPgP">přečíst na naší wiki</a>.
+          <h1>Kde se setkáme v září a říjnu?</h1></p>
+          <ul>
+          <li>
+          <strong>15. 9.</strong> bude Česko.Digital součástí vzdělávací konference <strong><a href="https://opero.cz/cs/akce/futureedu">Budoucnost vzdělávání v digitální době</a></strong> – blok v části <strong>Digitální občanství</strong> v Opero. Registrace je zdarma a vystoupí tu také Salman Khan nebo Robert Plaga.</p>
+          </li>
+          <li>
+          <strong>Prague hackathon pro nezávislá média</strong> bude organizovat Free Europe/Radio Liberty ve dnech <strong>17.–19. 9.</strong>. Registrovat se můžete <a href="">zde</a> a pokud vás zajímá právě <strong>téma svobody a žurnalistiky</strong>, více info najdete přímo <a href="">na webu eventu.</a></p>
+          </li>
+          <li>
+          <strong>21.–23. 9.</strong> proběhne jedna z největších událostí <strong><a href="">WebExpo</a></strong>, kde je platinovým sponzorem náš hlavní partner </strong>Livesport</strong> a budou zde i zástupci Česko.Digital.</p>
+          </li>
+          <li>
+          <strong>2. 10.</strong> máme naplánovaný <strong><a href="">hackday pro React/Kotlin vývojáře</a></strong>, kde můžete pomoci posunout náš projekt Jehlomat! Vyplňte <a href="">registrační formulář</a> a zapojte se. Rádi vás uvidíme od 9:00 do cca 18:00 v SAP Labs ve 4. patře na ulici Holandská 2/4 v Brně.</p>
+          </li>
+          <li>
+          <strong>12. 10.</strong> od 15:00 proběhne další ze série debat, kde s Principal Engineering budeme řešit nejen <strong>open source</strong>, ale i zkušenosti s řízením a provozem státních <strong>IT systémů</strong> vycházející z příručky řízení státních IT projektů od Česko.Digital.</p>
+          </li>
+          <li>
+          <strong>23.–24. 10.</strong> jsme společně s ASWA patronem <strong>tracku Tendery</strong> v rámci eventu <strong><a href="https://hackathon.atoscz.net/">Chtějme lepší Česko</a></strong>, který pořádá firma Atos v ImpactHubu v Brně.</p>
+          </li>
+          <li>
+          <strong>26.–27. 10.</strong> proběhne <strong><a href="https://praguedatacongress.com/">Prague City Data Congress</a></strong>, kde se můžeme potkat a diskutovat na téma <strong>otevřených dat</strong>.</p>
+          </li>
+          </ul>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -188,17 +178,33 @@
     <mj-section>
       <mj-column>
         <mj-text>
-          <h1>Jak si v komunitě žijeme</h1>
-          <p><strong>Červenec byl ve znamení narozeninových oslav.</strong> Připravili jsme spoustu aktivit, z nich například i <a href="https://www.youtube.com/watch?v=F28a72dX1RQ&amp;ab_channel=%C4%8Cesko.Digital">narozeninový livestream</a> a <a href="https://blog.cesko.digital/2021/07/narozeniny">intro článek</a>, kde se dozvíte o našich úspěších za poslední 2 roky a vizích do těch následujících. Také proběhla další osobní setkání –⁠ tentokrát v Praze i Brně.</p>
-          <p>Rádi jsme se po dlouhé době, nebo s některými dokonce poprvé, viděli a těšíme se na další akce jako <strong><a href="https://cesko.digital/events/komunitni-sraz-brno">další offline setkání v Brně</a> nebo <a href="https://cesko.digital/events/vylet-cesko-digital">víkendový komunitní výlet</a></strong>.</p>
+          <h1>Jsme tu i díky našim partnerům</h1>
+          <p>Děkujeme našim hlavním partnerům, bez kterých by Česko.Digital nebylo – za dlouhodobou podporu děkujeme firmě <strong>Livesport, Nadaci Bakala Foundation, Nadaci PPF</strong> a mnoha dalším dárcům a sponzorům, jejichž podpory si velmi vážíme.</p>
         </mj-text>
       </mj-column>
     </mj-section>
 
-    <!-- Divider -->
+
+    <!-- Feature -->
     <mj-section>
       <mj-column>
-        <mj-image src="https://data.cesko.digital/img/71f9967f.jpg" padding="10px 0 10px 0">
+        <mj-text>
+          <h1>Co se klube v našem inkubátoru</h1>
+          <p><strong>V srpnu jsme v inkubátoru přivítali nový projekt Pohyb je řešení</strong>, se kterým přišly neziskové organizace <a href="https://www.pohybjereseni.cz/">Sport 2.0</a> a <a href="https://www.wannadosports.com/wannado/">Wannado</a>. Nová aplikace má podpořit vztah dětí ke sportu díky zapojení a informovanosti rodičů.</p>
+          <p>Mentorem projektu je <a href="https://www.linkedin.com/in/mmencl">Marek Mencl</a>, po inkubační fázi budeme hledat další kolegy z designu, vývoje, copy a dalších oblastí. <strong>Už nyní v týmu uvítáme zkušeného scrum mastera.</strong> Podívejte se na <a href="https://cesko-digital.atlassian.net/wiki/spaces/PJR/overview?atlOrigin=eyJpIjoiNTVhYzM1M2IwNmViNGY5NjlhMDFhNzU1OTFjYjM1NjgiLCJwIjoiYyJ9">wiki</a> nebo do <a href="https://cesko-digital.slack.com/archives/C02B7AAAH7E">projektového kanálu</a> a ozvěte se!</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Feature -->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h1>Jak si v komunitě žijeme</h1>
+          <p><strong>Máme zrevidované a zjednodušené hodnoty</strong> - jejich nové znění najdete na <a href="http://www.cesko.digital">našem webu</a> nebo <a href="https://cesko-digital.atlassian.net/l/c/z3H4Pnn2">wiki</a> a těšíme se, jak je budeme společně dál žít.</p>
+          <p><strong>Propojujeme se s dalšími komunitami.</strong> Jste v nějaké, o které bychom měli vědět? Pomozte nám s propojením. Nahlédněte do <a href="https://cesko-digital.atlassian.net/l/c/raMUVJrG">tabulky</a> a přidejte se jako kontaktní osoba. Moc děkujeme!</p>
+          <p>Potkali jsme se taky na komunitním setkání v Brně, další akce chystáme – sledujte <a href="https://cesko.digital/portal-dobrovolnika">Portál dobrovolníka</a>.</p>
+        </mj-text>
       </mj-column>
     </mj-section>
 
@@ -208,9 +214,10 @@
         <mj-text>
           <h1>Vzděláváme Česko.Digital</h1>
           <h2>č.edu</h2>
-          <p>Ani přes prázdniny nezahálíme a vzděláváme se. <strong>Tentokrát v tématu duševní hygieny a well-beingu nejen v dobrovolnictví</strong> –⁠ workshop lektorovala Petra Fritsch, dobrovolnická koordinátorka Střechy duševního zdraví a také studentka psychologie. Léto využíváme pro zpracování odvysílaných webinářů a workshopů do <a href="https://cesko-digital.atlassian.net/l/c/KUNUhw0n">videotéky</a> a k přípravě nových témat nebo akcí v následujících měsících. <strong>Všechny připravované akce najdete na <a href="https://cesko.digital/portal-dobrovolnika">Portálu dobrovolníka</a>.</strong></p>
+          <p>V rámci srpna proběhly <strong>dva webináře</strong>. V polovině měsíce jsme se s <a href="https://www.linkedin.com/in/kdo-je-martina-habov%C3%A1/">Martinou Habovou</a> věnovaly v čistě ženském složení <strong>Energy managementu pro ženy</strong> a tomu, jak nás <strong>ovlivňuje</strong> cykličnost i v práci. Předposlední srpnové odpoledne pak patřilo <a href="https://www.linkedin.com/in/sandra-fridrichova/">Sandře Fridrichové</a> a tématu <strong>zpětné vazby</strong> a praktickým tipům, jak na ni. Sestříhané záznamy nejen těchto akcí si můžete pustit v naší <strong><a href="https://cesko-digital.atlassian.net/l/c/U7xC1m6f">videotéce</a></strong>.</p>
+          <p>A pokud byste měli zájem o <strong>další skvělý obsah</strong>, <a href="https://www.youtube.com/channel/UCYMZxCNq_IWI8URpcx2sBwg">odebírejte náš kanál na Youtube</a>. Najdete tam spoustu další inspirace a zajímavých videí!</p>
           <h2>Show&amp;Tell</h2>
-          <p><strong>V červenci jsme odvysílali čtvrtý díl</strong> našeho pravidelného pořadu Show&amp;Tell, ve kterém dáváme prostor našim dobrovolníkům ukázat, jak a na čem pracují. V posledním díle jste mohli vidět zajímavé povídání o vývoji aplikace pro <a href="https://www.loono.cz/">Loono</a>, rozhovor a ukázku z našeho prvního <a href="https://www.facebook.com/cesko.digital/photos/a.2360054424238229/3008126396097692">Flutter hackatonu</a> a nakouknutí do toho, co spadá do denní agendy Head of Partnerships &amp; Fundraising v Česko.Digital. Koneckonců se můžete <a href="https://web-preview.cesko.digital/events/show-and-tell-4">podívat</a>. <strong>A zapište si do kalendářů, že 26. 8. vysíláme další díl.</strong></p>
+          <p>V srpnu nám naši <strong>dobrovolníci již popáté</strong> v rámci pravidelného pořadu Show&Tell <strong>pověděli o svých rolích a projektech v č.d.</strong> Tentokrát vás vysíláním provedli <a href="https://www.linkedin.com/in/mmencl">Marel Mencl</a> z <a href="https://www.pabeni.cz/tym">Pábení</a>, <a href="https://www.linkedin.com/in/ond%C5%99ej-sli%C5%A1-b7bb31108/">Ondřej Sliš</a> z projektu <a href="https://cesko.digital/projekty/zacni-ucit">Začni učit!</a> a <a href="https://www.linkedin.com/in/zajickovalucie/">Lucka Zajíčková</a>, naše People & Community manažerka. Ta vnesla náhled do péče o dobrovolnickou komunitu. Pokud vám vysílání náhodou uniklo, <a href="https://www.youtube.com/watch?v=KanMK3QaQXw">najdete ho na našem Youtube</a>. <strong>Budeme se na vás těšit při příštím vysílání</strong>, které proběhne klasicky poslední čtvrtek v měsíci, tedy <strong>30. 9.</strong>!</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -231,25 +238,30 @@
           <p><strong>Dobrovolnické role:</strong></p>
           <ul>
             <li>
-              <a href="https://cesko-digital.atlassian.net/wiki/spaces/LA">Kotlin vývojáři</a> pro Loono: Průvodce prevencí
+              <strong><a href="https://cesko-digital.atlassian.net/wiki/spaces/PJR/pages/754549277/Otev+en+role#Koho-te%C4%8F-hled%C3%A1me%3F">Scrum Master</a></strong> pro projekt Pohyb je řešení – kontaktní osoba Anežka Müller (anezka@cesko.digital)
             </li>
             <li>
-              <a href="https://cesko-digital.atlassian.net/l/c/0pA0FHDT">Grafici a ilustrátoři</a> pro Střechu duševního zdraví
+              <strong><a href="https://cesko-digital.atlassian.net/wiki/spaces/VWE/pages/545488902/Otev+en+role+v+t+mu?atlOrigin=eyJpIjoiYWYxNzMxOGE3OTY0NDk2Yzk2OGY4YzI0ODhkZmFlOTkiLCJwIjoiYyJ9">Různé role</a></strong> do projektu Česko.Digital Edu – kontaktní osoba Lucie Zajíčková (lucie@cesko.digital)
             </li>
             <li>
-              <a href="https://cesko-digital.atlassian.net/l/c/0pA0FHDT">Marketingoví stratégové a obsahoví koordinátoři</a> pro Střechu duševního zdraví
+              <strong><a href="https://cesko-digital.slack.com/archives/CUXRHTY58/p1630049080013100">Střihač videí</a></strong> pro Učíme online – kontaktní osoba Lukáš Návesník (lukas.navesnik@cesko.digital)
             </li>
             <li>
-              <a href="https://docs.google.com/document/d/1WufispIL5XGRCHc8GMdpoOcTDO8PTEda6TQKGFqC48k/edit?usp=sharing">Seniornější Python vývojáři se zkušeností s Dockerem</a> pro <a href="https://cesko-digital.slack.com/archives/C01AENB1LPP">Inovace zpravodajského storytellingu</a>
+              <strong><a href="https://docs.google.com/document/d/1WufispIL5XGRCHc8GMdpoOcTDO8PTEda6TQKGFqC48k/edit?usp=sharing">Backend vývojář (Python)</a></strong> pro <a href="https://cesko-digital.slack.com/archives/C01AENB1LPP">Inovace zpravodajského storytellingu</a> – kontaktní osoba Jiří Zikeš (jiri@xomlo.io)
             </li>
             <li>
-              <a href="https://docs.google.com/document/d/1WufispIL5XGRCHc8GMdpoOcTDO8PTEda6TQKGFqC48k/edit?usp=sharing">Juniorní i seniorní React programátoři</a> pro <a href="https://cesko-digital.slack.com/archives/C01AENB1LPP">Inovace zpravodajského storytellingu</a>
+              <strong><a href="https://cesko-digital.slack.com/archives/C01168N8XP1/p1630558367030700">Obsahový koordinátor/copywriter</a></strong> pro projekt Střecha duševního zdraví – kontaktní osoba Kateřina Kocianová (katerina@cesko.digital)
             </li>
-          </ul>
-          <p><strong>Role v kmenovém týmu:</strong></p>
-          <ul>
-            <li><a href="https://cesko-digital.atlassian.net/wiki/spaces/CD/pages/732005721">Chief Marketing Officer</a></li>
-          </ul>
+            <li>
+              <strong><a href="https://cesko-digital.slack.com/archives/C01168N8XP1/p1630344449021900">Marketingový koordinátor</a></strong> pro projekt Střecha duševního zdraví – kontaktní osoba Kateřina Kocianová (katerina@cesko.digital)
+            </li>
+            <li>
+              <strong><a href="https://cesko-digital.slack.com/archives/C01168N8XP1/p1630654949033200">Frontend Developer</a></strong> pro projekt Střecha duševního zdraví – kontaktní osoba Kateřina Kocianová (katerina@cesko.digital)
+            </li>
+            <li>
+              <strong><a href="https://cesko-digital.slack.com/archives/C01168N8XP1/p1630655210037900">Grafik/ilustrátor</a></strong> pro projekt Střecha duševního zdraví – kontaktní osoba Kateřina Kocianová (katerina@cesko.digital)
+            </li>
+            </ul>
           <p>Žádná z pozic vás nezaujala? <strong>Prohlédněte si všechny <a href="https://cesko-digital.atlassian.net/l/c/VCYAW1U1">poptávané role</a>.</strong></p>
           <p>Pokud hledáte jednorázové spolupráce, mohl by vás zajímat kanál <a href="https://cesko-digital.slack.com/archives/CLVAH28P3">#market-place</a>, kde neziskovky shánějí dobrovolníky do rozjetých projektů. Svou první zkušenost v neziskovce tak můžete nabrat i mimo Česko.Digital.</p>
         </mj-text>
@@ -263,9 +275,14 @@
         <mj-text font-size="14px">
           <p>Jak se vám líbí náš newsletter? Budeme rádi, když nám <a href="https://airtable.com/shre7lawrjOxNtCpL">necháte zpětnou vazbu</a>,
             která nám ho pomůže zlepšit. Anebo se rovnou podívejte do naší <a href="https://trello.com/b/RmTwoiMq/cd-newsletter">Trello nástěnky</a>,
-            s čím byste nám mohli pomoct, ozvěte se v kanálu <a href="https://cesko-digital.slack.com/archives/CMAS7H63D">#ceskodigital_mktg</a>
-            a můžeme se do toho pustit společně.</p>
-          <p>Za obsahový tým Česko.Digital Terka Teryii Palaščáková (koordinace), Gabi Konvalinková, Tom Jelen, Dana Beneda a Petr Hrudka (texty), Zu Šrůmová (korektura) a Teryii (grafika).</p>
+            s čím byste nám mohli pomoct, ozvěte se v kanálu <a href="https://cesko-digital.slack.com/archives/C01FQBDMDGQ">#ceskodigital_obsah</a>. Můžeme se do toho pustit společně. 🤗</p>
+            <p>Digitálu zdar!</p>
+            </p>
+          <p>Za obsahový tým Česko.Digital</p>
+          Koordinace: Tereza Lattová, Terka Teryii Palaščáková</p>
+          Texty: Gabriela Konvalinková, Kateřina Peřinová, Petr Hrudka, Tomáš Jelen</p>
+          Korektura: Zuzana Šrůmová</p>
+          Grafika: Lukáš Návesník</p>
         </mj-text>
         <mj-spacer height="50px" />
       </mj-column>
