@@ -78,7 +78,7 @@
         <mj-text>
           <h1>Od (neziskové) myšlenky k (digitálnímu) úspěchu</h1>
           <p>Máte nápad na web, aplikaci či jiný digitální produkt, ale nevíte, kde začít a jak ho uchopit tak, aby se z něj stala skutečnost? Zajímá vás, jak probíhá spolupráce Česko.Digital a dalších neziskových organizací na společných projektech?</p>
-          <p><b>Připojte se ve čtvrtek 25 listopdu od 9:00 na <a href="https://cesko.digital/events/od-myslenky-k-uspechu-zu-ns">živý přenos rozhovoru</a> s Janou Fryzelkovou</b> z organizace Výluka <b>a Radkem Háblem</b> z Institutu prevence a řešení předlužení! Dozvíte se, jak se společná práce na projektech <a href="http://zacniucit.cz">Začni učit!</a> a <a href="http://nedluzimstatu.cz">Nedlužím státu</a> odrazila na procesech organizací a jak jejich očekávání odpovídala realitě. Rozhovor povede naše CEO <b>Eva Pavlíková</b>. Těšíme se na vás!</p>
+          <p><b>Připojte se ve čtvrtek 25. listopadu od 9:00 na <a href="https://cesko.digital/events/od-myslenky-k-uspechu-zu-ns">živý přenos rozhovoru</a> s Janou Fryzelkovou</b> z organizace Výluka <b>a Radkem Háblem</b> z Institutu prevence a řešení předlužení! Dozvíte se, jak se společná práce na projektech <a href="http://zacniucit.cz">Začni učit!</a> a <a href="http://nedluzimstatu.cz">Nedlužím státu</a> odrazila na procesech organizací a jak jejich očekávání odpovídala realitě. Rozhovor povede naše CEO <b>Eva Pavlíková</b>. Těšíme se na vás!</p>
           <p><b>Od (neziskové) myšlenky k (digitálnímu) úspěchu: Příběh projektů Začni učit! a Nedlužím státu</b> je první event ze série diskuzí a workshopů, které připravujeme pro zástupce neziskových organizací a státu, v oblasti digitálních produktů, projektů a agilního řízení. Na setkání volně navazuje <b><a href="https://cesko.digital/events/skvely-scrum-master">Skvělý Scrum Master: agilně i v nezisku</a> v úterý 7. 12. 2021 od 17:30</b>. </p>
         </mj-text>
       </mj-column>
@@ -131,7 +131,7 @@
       </mj-column>
     </mj-section>
     
-     <mj-section padding-bottom="30px">
+     <mj-section >
       <mj-column>
         <mj-image src="https://data.cesko.digital/web/projects/ucime-online/cover-ucime-online.jpg" fluid-on-mobile="true" />
         <mj-text>
@@ -148,8 +148,11 @@
     </mj-section>
 
     <!-- Main Feature -->
-    <mj-section>
-      <mj-column>    
+    <mj-section padding-bottom="30px">
+      <mj-column>
+        <mj-text>
+        <p><center>Sbírka počítačů - předáváme!
+        </mj-text>    
         <mj-image href="https://youtu.be/BIRI_kIPINY" src="https://data.cesko.digital/newsletter/28/UO-YT-cover.png" padding="0px 0 40px 0" width="400px">
       </mj-column>
     </mj-section>
@@ -250,7 +253,7 @@
           </ul>
           <p>Záznamy najdete na <a href="https://www.youtube.com/c/%C4%8CeskoDigital">YouTube</a> a chystané akce na <a href="https://cesko.digital/portal-dobrovolnika">Portálu dobrovolníka</a>.
           <h2>Show&amp;Tell</h2>
-          <p><a href="https://www.youtube.com/watch?v=WrsYndsdNsA">V sedmém díle pořadu Show&Tell</a> mluvila <b>Jana Soukupová</b> z <b>Youth, Speak Up!</b> o tom, jak <b>měnit postoj mladých voličů k volbám</b>. Jana chtěla změnit to, že 5 z 10 mladých k volbám nechodí vůbec, zatímco u lidí ve věku 60+ volí 7 z 10. A právě ti určují politický mainstream. Pokračoval <b>Martin Ladecký</b>, který poodkryl zákulisí vzniku <b>aplikace Včas</b>. Skvělé věci v rámci zdravotní prevence jste od Loono určitě zaznamenali, ale aplikace bude úplná novinka. Závěrem <b>Lumír Kajnar</b> navázal na povídání z minulého týdne <b>o vizuální identitě</b> naší organizace. Jak vzniklo logo i název už víme, tentokrát hlouběji o design systému.</p>
+          <p><a href="https://www.youtube.com/watch?v=WrsYndsdNsA">V sedmém díle pořadu Show&Tell</a> mluvila <b>Jana Soukupová</b> z <b>Youth, Speak Up!</b> o tom, jak <b>měnit postoj mladých voličů k volbám</b>. Jana chtěla změnit to, že 5 z 10 mladých k volbám nechodí vůbec, zatímco u lidí ve věku 60+ volí 7 z 10. A právě ti určují politický mainstream. Pokračoval <b>Martin Ladecký</b>, který poodkryl zákulisí vzniku <b>aplikace Včas</b>. Skvělé věci v rámci zdravotní prevence jste od Loono určitě zaznamenali, ale aplikace bude úplná novinka. Závěrem <b>Lumír Kajnar</b> navázal na povídání z minulého týdne <b>o vizuální identitě</b> naší organizace. Jak vzniklo logo i název už víme, tentokrát jsme se podívali na design systému.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -267,7 +270,7 @@
       <mj-column>
         <mj-text>
           <h1>Koho aktuálně hledáme</h1>
-          <p>Fíha, tady se to ale ztenčilo, co? 😁 Jestli jste přeskočili začátek newsletteru, abyste se podívali rovnou na poptávané role, tak vám to tedy zrekapitulujeme – <b>všechny pozice nově najdete na <a href="https://cesko.digital/portal-dobrovolnika">Portálu dobrovolníka</a></b>. Tak šup šup, připojte se k největší dobrovolnické civic-tech organizaci v Evropě a digitalizujte s námi Česko!</p>
+          <p>Fíha, tady se to ale ztenčilo, co? 😁 Jestli jste přeskočili začátek newsletteru, abyste se podívali rovnou na poptávané role, tak vám to tedy zrekapitulujeme – <b>všechny pozice nově najdete na <a href="https://cesko.digital/portal-dobrovolnika">Portálu dobrovolníka</a></b>.<p>Tak šup šup, připojte se k největší dobrovolnické civic-tech organizaci v Evropě a digitalizujte s námi Česko!</p>
         </mj-text>
       </mj-column>
     </mj-section>
