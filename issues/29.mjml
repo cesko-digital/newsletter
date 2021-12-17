@@ -48,7 +48,7 @@
       <mj-column>
         <mj-text>
           <p>Ahoj, Česko.Digital! 👋</p>
-          <p>Medvědi možná hibernují, ale my nikoliv. Plácli jsme si s Nadací PPF, která se tak stala jedním z našich hlavních partnerů, a zároveň dokončili 2 projekty. 👏 Nezahálíme ani v osobním rozvoji, s šálkem horkého kakaa nebo punče se teď můžete ponořit do newsletteru plného workshopů, průvodců i nových návodů! ☕</p>
+          <p>Medvědi možná hibernují, ale my nikoliv. Plácli jsme si s Nadací PPF, která se tak stala jedním z našich hlavních partnerů, a zároveň dokončili dva projekty. 👏 Nezahálíme ani v osobním rozvoji, s šálkem horkého kakaa nebo punče se teď můžete ponořit do newsletteru plného workshopů, průvodců i nových návodů! ☕</p>
           <p>
         </mj-text>
       </mj-column>
@@ -57,7 +57,7 @@
     <!-- Divider -->
     <mj-section>
       <mj-column>
-        <mj-image src="LINK SEM" padding="20px 0 10px 0">
+        <mj-image src="http://data.cesko.digital/newsletter/29/NL-PF2022.png" padding="20px 0 10px 0">
       </mj-column>
     </mj-section>
 
@@ -66,8 +66,8 @@
       <mj-column>
         <mj-text>
           <h1>K lepšímu neměníme jenom Česko, ale i sebe</h1>
-          <p>Už delší dobu nám přicházela zpětná vazba na směrování naší organizace. Cítili jsme, že je potřeba si říct, co je pro nás důležité a jak a kam chceme růst. Sice na tom ještě pracujeme, ale změna je už jasná: <b>Postupně měníme směr a vizi Česko.Digital!</b></p>
-          <p><b>Zaměříme se ještě více na vás, dobrovolníky, kteří jste srdcem komunity</b>, a také na akceleraci projektů, kterým pomůžeme díky předávání našich digitálních zkušeností se ještě více rozvíjet.</p>
+          <p>Už delší dobu nám přicházela zpětná vazba na směřování naší organizace. Cítili jsme, že je potřeba si říct, co je pro nás důležité a jak a kam chceme růst. Sice na tom ještě pracujeme, ale změna je už jasná: <b>Postupně měníme směr a vizi Česko.Digital!</b></p>
+          <p><b>Zaměříme se ještě více na vás, dobrovolníky, kteří jste srdcem komunity</b>, a také na akceleraci projektů, kterým díky předávání našich digitálních zkušeností pomůžeme se ještě více rozvíjet.</p>
         </mj-text>
          <mj-image src="https://data.cesko.digital/newsletter/29/martina-citace.png" padding="10px 20px 10px 20px"></mj-image>
         <mj-text>
@@ -80,7 +80,7 @@
     <mj-section>
       <mj-column>
         <mj-text>
-          <h1>Do světa pouštíme další 2 projekty, které nemají obdoby</h1>
+          <h1>Do světa pouštíme další dva projekty, které nemají obdoby</h1>
           <h3>Vznikl interaktivní průvodce usnadňující vstup do českého školství</h3>
           <p><b>Spolu se Začni učit! spouštíme <a href="http://zacniucit.cz/pruvodce">interaktivního průvodce</a></b>, který provede zájemce o učitelství bezpečně všemi nástrahami výběru správného kurzu nebo doplňujícího vzdělání. Přečtěte si víc o našem počinu na <a href="https://blog.cesko.digital/2021/12/novy-interaktivni-pruvodce-zu">blogu Česko.Digital</a>, kde také najdete formulář pro zpětnou vazbu na průvodce.</p>
           <p><b>Děkujeme všem, kteří se na tvorbě průvodce podíleli</b>, a jsme zvědaví, kolika lidem nový průvodce pomůže v tom, aby se stali učiteli! Vyzkoušíte si ho i vy?</p>
@@ -149,9 +149,9 @@
         <mj-text>
           <p><b>A na čem pracujeme dál?</b></p>
           <ul>
-          <li>Sekce Prevence: jedná se o jádro aplikace, kde uživatel zjistí, na jaké preventivní prohlídky by měl chodit
+          <li>Sekce Prevence: jedná se o jádro aplikace, kde uživatel zjistí, na jaké preventivní prohlídky by měl chodit.
           </li>
-          <li>Sekce O zdraví: obsahová část, kde najdete spoustu zajímavých informací o zdraví a prevenci
+          <li>Sekce O zdraví: obsahová část, kde najdete spoustu zajímavých informací o zdraví a prevenci.
           </li>
           </ul>
           <p>Jste nedočkaví a zvědaví, jak to celé vypadá? <b>Mrkněte se na návrh do <a href="https://www.figma.com/file/E3BhDWp6O8d1XmsbC46mcr/Loono?node-id=258%3A694">Figmy</a></b> nebo sledujte na Slacku kanál <a href="https://cesko-digital.slack.com/archives/C01P6CK0DDY">#run-loono_vcas</a>. Děkujeme všem dobrovolníkům, kteří aplikaci věří stejně jako my a samozřejmě také Loono!
@@ -223,15 +223,15 @@
           <p>Zeptali jsme se vás, o jaké <b>typy příležitostí v Česko.Digital</b> máte zájem. Děkujeme všem, kteří vyplnili krátký dotazník, vaše odpovědi nám pomáhají vytvářet co nejvíce relevantních a atraktivních příležitostí expertního dobrovolnictví.</p>
           <p><b>Co jsme zjistili:</b></p>
           <ul>
-          <li>preferujeme dlouhodobější zapojení (tedy dva měsíce a déle)
+          <li>preferujeme dlouhodobější zapojení (tedy dva měsíce a déle),
           </li>
-          <li>umíme si zpravidla vyhradit až 5 hodin týdně 
+          <li>umíme si zpravidla vyhradit až 5 hodin týdně,
           </li>
-          <li>nejvíc nás zajímají projekty, kde je zadavatelem přímo Česko.Digital (jako Učíme online nebo Safezóna)
+          <li>nejvíc nás zajímají projekty, kde je zadavatelem přímo Česko.Digital (jako Učíme online nebo Safezóna),
           </li>
-          <li>nebaví nás administrativa ani časté a neefektivní schůzky
+          <li>nebaví nás administrativa ani časté a neefektivní schůzky,
           </li>
-          <li>chceme se vzdělávat
+          <li>chceme se vzdělávat.
           </li>
           </ul>
           <p>Zajímá vás víc? Mrkněte se na <a href="https://cesko-digital.atlassian.net/wiki/spaces/CD/pages/818217107/Vyhodnocen+dotazov+n+z+jmu+o+r+zn+typy+zapojen+v+esko.Digital">vyhodnocení dotazníku</a> nebo na <a href="https://cesko-digital.atlassian.net/browse/CSD-1021">akční kroky</a>, které v návaznosti na dotazník plánujeme.</p>
